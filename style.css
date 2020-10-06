@@ -1,17 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200&display=swap');
-
-body {
+h1,h2,p{
 	text-align: center;
-	font-family: 'Nunito', sans-serif;
-	background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
-	background-repeat: no-repeat;
-    background-attachment: fixed;
 }
-
-.header{
-	font-family: 'Piazzolla', serif;
-	font-size: 900px;
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 100px;
 }
-
-
