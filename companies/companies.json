@@ -1,0 +1,6 @@
+{
+  "tags": [
+    "companies"
+  ],
+  "layout": "layouts/company.njk"
+}
