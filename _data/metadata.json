@@ -1,10 +1,9 @@
 {
-    "title": "DiversityCorp",
-    "url": "TBD",
-    "description": "Holding corporations accountable",
-    "author": {
-      "name": "DiversityCorp",
-      "email": "TBD"
-    }
+  "title": "DiversityCorp",
+  "url": "TBD",
+  "description": "Holding corporations accountable",
+  "author": {
+    "name": "DiversityCorp",
+    "email": "TBD"
   }
-  
+}
