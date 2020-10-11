@@ -1,10 +1,7 @@
-module.exports = function(eleventyConfig) {
-    return {
-        templateFormats: [
-            "njk",
-            "md",
-        ],
-        htmlTemplateEngine: "njk",
-        dataTemplateEngine: "njk"
-    }
+module.exports = function (eleventyConfig) {
+  return {
+    templateFormats: ["njk", "md", "png"],
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+  };
 };
