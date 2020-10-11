@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Holding corporations accountable",
   "scripts": {
-    "build": "env NODE_ENV=production npx eleventy",
+    "build": "env NODE_ENV=production eleventy",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy"
   },
