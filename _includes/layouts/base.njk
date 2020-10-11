@@ -1,11 +1,9 @@
 ---
 nav_links:
- - name: link1
-   url: /link1
- - name: link2
-   url: /link2
- - name: link3
-   url: /link3
+ - name: Home
+   url: /
+ - name: Statements
+   url: /statements
 ---
 
 <!doctype html>
@@ -22,18 +20,28 @@ nav_links:
   </head>
   <body>
     <header>
-      <a href="/" class="page-header__logo" title="Go home">
-          <img src="/img/avatar.png" alt="" width="48">
-      </a>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
-      <ul class="nav justify-content-center">
-		{% for link in nav_links %}
-		<li class="nav-item{% if link.url == page.url %} nav-item-active{% endif %}">
-		  <a class="nav-link" href="{{ link.url | url }}">{{ link.name }}</a>
-		</li>
-		{% endfor %}
-	  </ul>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        {# <a class="navbar-brand" href="{{ '/' | url }}">{{ metadata.title }}</a> #}
+        <a href="{{ '/' | url }}" class="navbar-brand" title="Go home">
+          <img src="images/favicon.png" alt="" width="48">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            {% for link in nav_links %}
+              <li class="nav-item{% if link.url == page.url %} nav-item-active{% endif %}">
+                <span class="sr-only">(current)</span>
+                <a class="nav-link" href="{{ link.url | url }}">{{ link.name }}</a>
+              </li>
+            {% endfor %}
+
+          </ul>
+        </div>
+      </nav>
+
     </header>
 
     <main>
