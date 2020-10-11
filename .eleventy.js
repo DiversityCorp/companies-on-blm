@@ -5,7 +5,6 @@ module.exports = function(eleventyConfig) {
             "md",
         ],
         htmlTemplateEngine: "njk",
-        dataTemplateEngine: "njk",
-        pathPrefix: "companies-on-blm"
+        dataTemplateEngine: "njk"
     }
 };
