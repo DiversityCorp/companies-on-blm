@@ -28,13 +28,19 @@ cd companies-on-blm
 npm install
 ```
 
-### 4. Run the Eleventy server locally
+### 4. Install Eleventy
+
+```
+npm install -g @11ty/eleventy
+```
+
+### 5. Run the Eleventy server locally
 
 ```
 eleventy --serve
 ```
 
-### 5. Open localhost:8080 on the browser of your choice! ✨
+### 6. Open localhost:8080 on the browser of your choice! ✨
 
 ### Implementation Notes
 
