@@ -9,12 +9,12 @@ There are many ways to contribute, from writing blog posts, improving the docume
 
 ## Ground rules
 
-COde and documentation contributions are welcome via Github pull requests.
+Code and documentation contributions are welcome via GitHub pull requests.
 
 For all contributions, please respect the following guidelines:
 
 * Each pull request should implement ONE feature or bugfix. If you want to add or fix more than one thing, submit more than one pull request.
-* Do not commit changes to files that are irrelevant to your feature or bugfix (eg: `.gitignore`).
+* Do not commit changes to files that are irrelevant to your feature or bugfix (e.g., `.gitignore`).
 * Be willing to accept criticism and work on improving your code.
 * Be aware that the pull request review process is not immediate, and is generally proportional to the size of the pull request.
 * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds.
