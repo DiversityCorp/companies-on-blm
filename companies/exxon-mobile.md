@@ -1,5 +1,5 @@
 ---
-forbes_rank: 3
+fortune_rank: 3
 name: Exxon Mobile
 slug: exxon-mobile
 logo: https://corporate.exxonmobil.com/-/media/Global/Icons/logos/ExxonMobilLogoColor2x.png

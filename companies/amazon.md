@@ -1,5 +1,5 @@
 ---
-forbes_rank: 2
+fortune_rank: 2
 name: Amazon.com
 slug: amazon-com
 logo: https://s2.q4cdn.com/299287126/files/design/amazon-logo.svg

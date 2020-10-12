@@ -1,5 +1,5 @@
 ---
-forbes_rank: 8
+fortune_rank: 8
 name: McKesson
 slug: mckesson
 logo: https://www.sfartsed.org/wp-content/uploads/2018/01/logo-mckesson.jpg

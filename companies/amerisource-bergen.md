@@ -1,5 +1,5 @@
 ---
-forbes_rank: 10
+fortune_rank: 10
 name: AmerisourceBergen
 slug: amerisource-bergen
 logo: https://www.amerisourcebergen.com/-/media/assets/amerisourcebergen/amerisourcebergen_pms.png?bc=ffffff&h=60&la=en&w=250&hash=01A0067C5DCB9036EDED6F66FA5B5D7D0F188CE6
