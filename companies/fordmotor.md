@@ -1,5 +1,5 @@
 ---
-forbes_rank: 12
+fortune_rank: 12
 name: Ford Motor
 slug: ford-motor
 logo: https://www.carlogos.org/car-logos/ford-logo-2003.png

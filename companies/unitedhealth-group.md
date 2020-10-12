@@ -1,5 +1,5 @@
 ---
-forbes_rank: 7
+fortune_rank: 7
 name: UnitedHealth Group
 slug: unitedhealth-group
 logo: https://i.pinimg.com/originals/15/e6/3b/15e63bac79001e4ca535b662ac7c948d.jpg

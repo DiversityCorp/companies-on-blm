@@ -1,5 +1,5 @@
 ---
-forbes_rank: number
+fortune_rank: number
 name: Company Name
 slug: company-name-lowercase-dashes
 logo: url of company logo image

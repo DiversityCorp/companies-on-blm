@@ -1,5 +1,5 @@
 ---
-forbes_rank: 13
+fortune_rank: 13
 name: Chevron
 slug: chevron
 logo: https://1000logos.net/wp-content/uploads/2017/12/Chevron-Logo.png
