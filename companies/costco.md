@@ -1,7 +1,7 @@
 ---
-forbes_rank: 142
+fortune_rank: 14
 name: Costco Wholesale
-slug: Costco
+slug: costco
 logo: https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/djivpahfbfmqxtlbwfaw
 blm_statements:
   - https://www.costco.com/ceo-message.html
