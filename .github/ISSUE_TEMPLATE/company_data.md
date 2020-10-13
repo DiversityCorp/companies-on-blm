@@ -1,11 +1,11 @@
 ---
 name: Company data
 about: Request data for a specific company
+title: "Add data for <company>"
+labels: "data-collection, help-wanted, good-first-issue"
 ---
 
 #### Description
-
-## Feature description
 
 Add a file with data for [Company Name](https://fortune.com/company/company-name-here/fortune500/)
 
