@@ -38,7 +38,7 @@ npm install -g @11ty/eleventy
 ### 5. Run the Eleventy server locally
 
 ```
-eleventy --serve
+npm run serve
 ```
 
 ### 6. Open localhost:8080 on the browser of your choice! ✨
