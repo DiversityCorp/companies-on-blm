@@ -1,7 +1,7 @@
 ---
 fortune_rank: 18
 name: General Motors
-slug: general motors
+slug: general-motors
 logo: https://upload.wikimedia.org/wikipedia/commons/d/d6/General_Motors_logo.svg
 blm_statements:
   - https://media.gm.com/media/us/en/gm/home.detail.html/content/Pages/news/us/en/2020/jun/0605-support.html?fbclid=IwAR3Vv3Cp_koNiX7DfKDUQHDejuj5QNxMeIqoGlAXtzU6uCNPCYu8yxxli8o
