@@ -24,7 +24,7 @@ heroku addons:create heroku-postgresql:hobby-dev -a <NAME OF APP>
 It takes a few minutes for the database to be created. If you run
 
 ```shell
-heroku pg:wait
+heroku pg:wait -a <NAME OF APP>
 ```
 
 then this command will wait and complete when the database is ready.
@@ -33,7 +33,7 @@ Once it is ready, execute the below to see the database connection string. It wi
 . You will need this full string later.
 
 ```shell
-heroku config
+heroku config -a <NAME OF APP>
 ```
 
 Further details on creating a new database are on the [Heroku site](https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-heroku-postgres)
