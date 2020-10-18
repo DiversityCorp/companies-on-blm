@@ -1,10 +1,15 @@
 ---
 layout: layouts/base.njk
 ---
+
 <div class="container">
     <img src="/images/logo.png" alt="">
     <h2>We hold companies accountable.</h2>
     <p>Below, we will display companies and their responses to the Black Lives Matter Movement.</p>
+    <div class="container">
+        <img src="https://pbs.twimg.com/media/EZXvqb6X0AEDkOI?format=jpg&name=medium" class="img-fluid" height="50%" alt="Responsive image">
+    </div>
+    <br/>
     <div class="row">
         {%- for company in collections.companies -%}
             <div class="col-sm-3">
