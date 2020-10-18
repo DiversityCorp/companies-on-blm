@@ -3,20 +3,43 @@ layout: layouts/base.njk
 ---
 
 <div class="container">
-		<img src="images/logo.png" alt="">
-		<h2>We hold companies accountable.</h2>
-		<p>Below, we will display companies and their responses to the Black Lives Matter Movement.</p>
-		<div class="row">
-				{%- for company in collections.companies -%}
-						<div class="col-sm-3">
-								<div class="card">
-										<div class="card-body">
-												<h5 class="card-title">{{ company.data.name }}</h5>
-												<p class="card-text">Some description</p>
-												<a href="{{ company.url | url }}" class="btn btn-primary">See More</a>
-										</div>
+		<img src="https://images.unsplash.com/photo-1591128352612-088a542d4709?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" class="img-fluid" alt="Responsive image">
+</div>
+
+<br/>
+
+<div class="container homepage">
+		<div class="shadow-lg p-3 mb-5 bg-white rounded">
+				<div class="container mt-5 mb-5">
+						<div class="row">
+								<div class="col-md-6 offset-md-3">
+										<h4>Timeline</h4>
+										<ul class="timeline">
+												<li>
+														<a target="_blank" href="https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html">The Murder of George Floyd</a>
+														<a target="_blank" href="https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html" class="float-right">May 25, 2020</a>
+														<p>George Floyd was murdered at the hands of Derek Chavin, a Minneapolis police officer.</p>
+												</li>
+												<li>
+														<a target="_blank" href="https://www.nytimes.com/article/george-floyd-protests-timeline.html">People Take to the Streets</a>
+														<a target="_blank" href="https://www.nytimes.com/article/george-floyd-protests-timeline.html" class="float-right">May 26, 2020</a>
+														<p>The people of Minneapolis began to protest, and police officers responded with tear gas and rubber bullets.</p>
+												</li>
+												<li>
+														<a target="_blank" href="https://deadline.com/2020/05/netflix-tweets-support-black-lives-matter-protests-george-floyd-death-1202947463/">Corporations Speak Out
+														</a>
+														<a target="_blank" href="https://deadline.com/2020/05/netflix-tweets-support-black-lives-matter-protests-george-floyd-death-1202947463/" class="float-right">May 31, 2020</a>
+														<p>The big-named companies started to tweet their support.</p>
+												</li>
+										</ul>
 								</div>
 						</div>
-				{%- endfor -%}
+				</div>
 		</div>
 </div>
+
+{# <div class="text-muted mt-5 mb-5 text-center small">Thanks to
+		<a class="text-muted" target="_blank" href="http://totoprayogo.com">
+				totoprayogo.com</a>
+		for timeline template
+</div> #}
