@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
-    "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "date-fns": "^2.16.1"
   },
   "engines": {
