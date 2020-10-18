@@ -3,21 +3,20 @@ layout: layouts/base.njk
 ---
 
 <div class="container">
-	<img src="images/logo.png" alt="">
-	<h2>We hold companies accountable.</h2>
-	<p>Below, we will display companies and their responses to the Black Lives Matter Movement.</p>
-	<div class="row">
-		{%- for company in collections.companies -%}
-		<div class="col-sm-3">
-			<div class="card">
-				<img class="card-img-top" src="{{company.data.logo | url}}" alt="company logo">
-				<div class="card-body">
-					<h5 class="card-title">{{ company.data.name }}</h5>
-					<p class="card-text">Some description</p>
-					<a href="{{ company.url | url }}" class="btn btn-primary">See More</a>
-				</div>
-			</div>
+		<img src="images/logo.png" alt="">
+		<h2>We hold companies accountable.</h2>
+		<p>Below, we will display companies and their responses to the Black Lives Matter Movement.</p>
+		<div class="row">
+				{%- for company in collections.companies -%}
+						<div class="col-sm-3">
+								<div class="card">
+										<div class="card-body">
+												<h5 class="card-title">{{ company.data.name }}</h5>
+												<p class="card-text">Some description</p>
+												<a href="{{ company.url | url }}" class="btn btn-primary">See More</a>
+										</div>
+								</div>
+						</div>
+				{%- endfor -%}
 		</div>
-		{%- endfor -%}
-	</div>
 </div>

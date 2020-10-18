@@ -9,7 +9,6 @@ layout: layouts/base.njk
         {%- for company in collections.companies -%}
             <div class="col-sm-3">
                 <div class="card">
-                    <img class="card-img-top" src="{{company.data.logo | url}}" alt="company logo">
                     <div class="card-body">
                         <h5 class="card-title">{{ company.data.name }}</h5>
                         <p class="card-text">Some description</p>
