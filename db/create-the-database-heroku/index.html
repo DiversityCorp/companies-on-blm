@@ -16,12 +16,12 @@
 <pre><code class="language-shell">heroku addons:create heroku-postgresql:hobby-dev -a &lt;NAME OF APP&gt;
 </code></pre>
 <p>It takes a few minutes for the database to be created. If you run</p>
-<pre><code class="language-shell">heroku pg:wait
+<pre><code class="language-shell">heroku pg:wait -a &lt;NAME OF APP&gt;
 </code></pre>
 <p>then this command will wait and complete when the database is ready.</p>
 <p>Once it is ready, execute the below to see the database connection string. It will look something like <code>postgres://asdfggh:fggfg2g2g@xxx.yyy.amazonaws.com:5432/zzzz</code>
 . You will need this full string later.</p>
-<pre><code class="language-shell">heroku config
+<pre><code class="language-shell">heroku config -a &lt;NAME OF APP&gt;
 </code></pre>
 <p>Further details on creating a new database are on the <a href="https://devcenter.heroku.com/articles/heroku-postgresql#provisioning-heroku-postgres">Heroku site</a></p>
 <h2>Add the database tables</h2>
