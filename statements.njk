@@ -11,7 +11,13 @@ layout: layouts/base.njk
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">{{ company.data.name }}</h5>
-                        <p class="card-text">Some description</p>
+                        <p class="card-text">
+                            {% if 'blm_statements' in company.data %}
+                                {{company.data.blm_statements[0].date_posted | dateReadable}}
+                            {% else %}
+                                No BLM Statement Found
+                            {% endif %}
+                        </p>
                         <a href="{{ company.url | url }}" class="btn btn-primary">See More</a>
                     </div>
                 </div>
