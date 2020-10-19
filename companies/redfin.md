@@ -6,8 +6,8 @@ blm_statements:
     date_posted: 2020-05-31
   - url: https://twitter.com/Redfin/status/1271141352927969281?s=20
     date_posted: 2020-06-11
-exec_team_url: [Leadership](https://press.redfin.com/spokespeople)
-diversity_inclusion_url: [Diversity at Redfin in 2020](https://www.redfin.com/news/diversity-at-redfin-in-2020/)
+exec_team_url: https://press.redfin.com/spokespeople
+diversity_inclusion_url: https://www.redfin.com/news/diversity-at-redfin-in-2020/
 ---
 
 "Industry-wide studies in 2018 and 2019 show that white people get much better real estate service than Black people with the same finances. That difference perpetuates segregated neighborhoods.
