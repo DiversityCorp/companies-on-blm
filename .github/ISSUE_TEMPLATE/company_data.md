@@ -2,7 +2,7 @@
 name: Company data
 about: Request data for a specific company
 title: "Add data for <company>"
-labels: "i: data collection, i: help wanted, i: good first issue"
+labels: "data collection, help wanted, good first issue"
 ---
 
 #### Description
