@@ -1,5 +1,4 @@
 ---
-fortune_rank: number
 name: GitHub, Inc.
 slug: github
 blm_statements:
