@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   }));
   eleventyConfig.addFilter("dateReadable", (date) => dateFns.format(date, "dd MMM yyyy"));
   eleventyConfig.addPassthroughCopy("./images");
+  eleventyConfig.addPassthroughCopy("./CNAME");
 
   return {
     templateFormats: ["njk", "md", "css"],
