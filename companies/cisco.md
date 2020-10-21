@@ -12,4 +12,4 @@ diversity_inclusion_url: https://www.cisco.com/c/en/us/about/inclusion-diversity
 ---
 
 What’s happening in the US is abhorrent. It’s far overdue for all of us to take action to eradicate systemic racism, xenophobia, inequality & all forms of bigotry in America. How we respond will be an important moment in our nation’s history. 
-@Cisco will lead. #blacklivesmatter  
+Cisco will lead. blacklivesmatter  
