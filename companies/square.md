@@ -4,7 +4,7 @@ slug: square
 blm_statements:
   - url: https://twitter.com/Square/status/1266857855187136525
     date_posted: 2020-05-30
-     - url: https://twitter.com/Square/status/1267634578208014337?s=20
+  - url: https://twitter.com/Square/status/1267634578208014337?s=20
     date_posted: 2020-06-01
 exec_team_url: https://squareup.com/us/en/about
 diversity_inclusion_url: https://careers.squareup.com/us/en/life-at-square
