@@ -2,6 +2,10 @@
 name: Ben & Jerry's
 slug: ben-jerrys
 blm_statements:
+  - url: https://www.instagram.com/p/CA8RvApgPJ9/
+     date_posted: 2020-06-02
+  - url: https://www.benjerry.com/about-us/media-center/dismantle-white-supremacy
+     date_posted: 2020-06-02
   - url: https://www.benjerry.com/whats-new/2016/why-black-lives-matter
     date_posted: 2016-10-06
 
