@@ -8,11 +8,6 @@ blm_statements:
 exec_team_url: https://zoom.us/team?zcid=2554
 diversity_inclusion_url: https://blog.zoom.us/zoom-hires-damien-hooper-campbell-as-chief-diversity-officer/
 ---
-
-https://twitter.com/zoom_us/status/1266877451646283776 link to letter
-
-https://www.businessinsider.com/tech-executives-racism-diversity-black-lives-matter-protests-2020-6#zoom-15 link to Business Insider
-
 MAY 30, 2020
 
 Hello my fellow Zoomies,
