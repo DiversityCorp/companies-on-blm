@@ -8,6 +8,7 @@ blm_statements:
 exec_team_url: https://zoom.us/team?zcid=2554
 diversity_inclusion_url: https://blog.zoom.us/zoom-hires-damien-hooper-campbell-as-chief-diversity-officer/
 ---
+
 MAY 30, 2020
 
 Hello my fellow Zoomies,
