@@ -1,6 +1,6 @@
 ---
 name: Ben & Jerry's
-slug: ben-&-jerrys
+slug: ben-jerrys
 blm_statements:
   - url: https://www.benjerry.com/whats-new/2016/why-black-lives-matter
     date_posted: 2016-10-06
