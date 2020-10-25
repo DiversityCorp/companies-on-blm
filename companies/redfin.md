@@ -1,6 +1,6 @@
 ---
 name: Redfin
-slug: redfin
+tags: ["realestate"]
 blm_statements:
   - url: https://twitter.com/Redfin/status/1267211947973283840?s=20
     date_posted: 2020-05-31

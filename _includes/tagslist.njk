@@ -1,0 +1,11 @@
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link" href="/statements">All</a>
+  </li>
+  {% for tag in collections.tagList %}
+    {% set tagUrl %}/statements/{{ tag }}/{% endset %}
+    <li class="nav-item">
+      <a class="nav-link" href="{{ tagUrl | url }}">{{ tag | capitalize }}</a>
+    </li>
+  {% endfor %}
+</ul>

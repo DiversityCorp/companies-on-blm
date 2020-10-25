@@ -1,0 +1,30 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - companies
+    - tagList
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{ tag | capitalize }} Companies"
+permalink: /statements/{{ tag }}/
+---
+<h1>{{ tag | capitalize }}
+  Companies</h1>
+
+<div class="container">
+  <div class="row">
+    {% include "tagslist.njk" %}
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      {% set companylist = collections[tag] %}
+      {% include "companylist.njk" %}
+    </div>
+  </div>
+</div>

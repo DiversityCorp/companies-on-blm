@@ -1,7 +1,7 @@
 ---
 fortune_rank: 13
 name: Chevron
-slug: chevron
+tags: ["fortune500", "energy"]
 blm_statements:
   - url: https://www.chevron.com/stories/statements-from-chevron-leaders-on-racial-injustice-and-discrimination
     date_posted: 2020-06-01

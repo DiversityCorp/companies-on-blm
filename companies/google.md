@@ -1,7 +1,7 @@
 ---
 fortune_rank: 11
 name: Google
-slug: google
+tags: ["fortune500", "tech"]
 blm_statements:
   - url: https://blog.google/inside-google/company-announcements/standing-with-black-community
     date_posted: 2020-06-03
@@ -10,20 +10,21 @@ blm_statements:
 exec_team_url: https://blog.google/perspectives/
 diversity_inclusion_url: https://diversity.google/
 ---
+
 **A MESSAGE FROM OUR CEO - Standing with the Black community:**
 Hi Googlers,
 
-I realize that nothing about this week feels like business as usual—and it shouldn’t. Our Black community is hurting, and many of us are searching for ways to stand up for what we believe, and reach out to people we love to show solidarity. Yesterday, I met with a group of our Black leaders to talk about where we go from here and how we can contribute as Google. We discussed many ideas, and we are working through where to put our energy and resources in the weeks and months ahead—I’ll share more on that below. 
+I realize that nothing about this week feels like business as usual—and it shouldn’t. Our Black community is hurting, and many of us are searching for ways to stand up for what we believe, and reach out to people we love to show solidarity. Yesterday, I met with a group of our Black leaders to talk about where we go from here and how we can contribute as Google. We discussed many ideas, and we are working through where to put our energy and resources in the weeks and months ahead—I’ll share more on that below.
 
-In the meantime, I wanted to provide space for us to come together as a community. Today at 1:00pm PDT we’ll be standing together to honor the memories of Black lives lost in an 8 minute and 46 second moment of silence.  
+In the meantime, I wanted to provide space for us to come together as a community. Today at 1:00pm PDT we’ll be standing together to honor the memories of Black lives lost in an 8 minute and 46 second moment of silence.
 
-The length of the moment of silence represents the amount of time George Floyd suffered before he was killed. It's meant to serve as a visceral reminder of the injustice inflicted on Mr. Floyd and so many others. We acknowledge that racism and violence may look different in different parts of the world, so please use this as a moment to reflect on those who have been lost in your own country or community at a time that works for you. If you would like to share this silent space with your fellow Googlers, join the live stream at 1:00 pm PDT today. 
+The length of the moment of silence represents the amount of time George Floyd suffered before he was killed. It's meant to serve as a visceral reminder of the injustice inflicted on Mr. Floyd and so many others. We acknowledge that racism and violence may look different in different parts of the world, so please use this as a moment to reflect on those who have been lost in your own country or community at a time that works for you. If you would like to share this silent space with your fellow Googlers, join the live stream at 1:00 pm PDT today.
 
-Coming together as a community and showing support is important, but it isn’t enough. So today, we are announcing a few initial commitments to meet the urgency of the moment. 
+Coming together as a community and showing support is important, but it isn’t enough. So today, we are announcing a few initial commitments to meet the urgency of the moment.
 
 We’ll be giving $12 million in funding to organizations working to address racial inequities. Our first grants of $1 million each will go to our long-term partners at the Center for Policing Equity and the Equal Justice Initiative. And we’ll be providing technical support through our Google.org Fellows program. This builds on the $32 million we have donated to racial justice over the past five years. We’ll also offer $25 million in Ad Grants to help organizations fighting racial injustice provide critical information.
 
-As a result of last week’s internal giving campaign, I‘m pleased to share that you all have contributed an additional $2.5 million in donations that we’re matching. This represents the largest Googler giving campaign in our company’s history, with both the largest amount raised by employees and the broadest participation.  
+As a result of last week’s internal giving campaign, I‘m pleased to share that you all have contributed an additional \$2.5 million in donations that we’re matching. This represents the largest Googler giving campaign in our company’s history, with both the largest amount raised by employees and the broadest participation.
 
 Supporting worthy organizations is a step in the right direction, but it is not a replacement for doing the harder work ahead both within and outside of Google. The events of the past few weeks reflect deep structural challenges. We’ll work closely with our Black community to develop initiatives and product ideas that support long-term solutions—and we’ll keep you updated. As part of this effort, we welcome your ideas on how to use our products and technology to improve access and opportunity.
 

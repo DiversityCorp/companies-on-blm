@@ -1,7 +1,7 @@
 ---
 fortune_rank: 9
 name: AT&T
-slug: att
+tags: ["fortune500"]
 blm_statements:
   - url: https://about.att.com/pages/racial_equality
     date_posted: 2020-06-23

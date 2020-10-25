@@ -1,7 +1,7 @@
 ---
 fortune_rank: 63
 name: Cisco
-slug: cisco
+tags: ["fortune500", "tech"]
 blm_statements:
   - url: https://twitter.com/ChuckRobbins/status/1266813493652512768?s=20
     date_posted: 2020-05-30

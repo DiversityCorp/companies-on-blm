@@ -1,0 +1,20 @@
+{%- for company in companylist | sortByPostedDate -%}
+  <div class="border-bottom p-2">
+    <a href="{{ company.url | url }}" class="m-3">
+      <h3 class="mb-0 text-dark">{{ company.data.name }}</h3>
+      <span class="badge badge-secondary p-2 mb-2">
+        {% if 'blm_statements' in company.data %}
+          {{company.data.blm_statements[0].date_posted | dateReadable}}
+        {% else %}
+          No BLM Statement Found
+        {% endif %}
+      </span>
+      {% for tag in company.data.tags %}
+        {%- if collections.tagList.indexOf(tag) != -1 -%}
+          {% set tagUrl %}/statements/{{ tag }}/{% endset %}
+          <span class="badge" href="{{ tagUrl | url }}">{{ tag }}</span>
+        {%- endif -%}
+      {% endfor %}
+    </a>
+  </div>
+{%- endfor -%}

@@ -1,7 +1,7 @@
 ---
 fortune_rank: 6
 name: Berkshire Hathaway
-slug: berkshire-hathway
+tags: ["fortune500", "finance", "realestate"]
 blm_statements:
   - url: https://bhhstoronto.ca/black-lives-matter-standing-in-solidarity/
     date_posted: 2020-06-04
