@@ -22,12 +22,6 @@ h2,
 p {
   text-align: center;
 }
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 100px;
-}
 
 .logo {
   height: 40px;

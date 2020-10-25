@@ -1,0 +1,20 @@
+---
+pagination:
+    data: collections.companies
+    size: 1
+    alias: company
+permalink: "{{ company.url }}/content/"
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{ company.data.name | capitalize }} Statements Raw Text"
+---
+
+{% for statement in company.data.blm_statements %}
+  {% if statement.raw_text %}
+    <h2>Statement posted
+      {{statement.date_posted | dateReadable }}</h2>
+    <p>
+      {{statement.raw_text}}
+    </p>
+  {% endif %}
+{% endfor %}

@@ -9,7 +9,7 @@ We want to hold companies accountable by highlighting the change (or lack of cha
 
 # How to get started
 
-This app is built on the static-site generator [11ty](https://www.11ty.dev/). The design uses Bootstrap4.
+This app is built on the static-site generator [11ty](https://www.11ty.dev/). The design uses [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
 
 ### 1. Clone this Repository
 
