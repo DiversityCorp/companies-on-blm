@@ -15,7 +15,6 @@ main {
   flex: 1 0 auto;
 }
 footer {
-  background-color: grey;
   flex-shrink: 0;
 }
 h1,
