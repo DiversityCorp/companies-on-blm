@@ -1,6 +1,5 @@
 ---
 name: PlayStation
-slug: playstation
 blm_statements:
   - url: https://twitter.com/PlayStation/status/1267468949865639936
     date_posted: 2020-06-01

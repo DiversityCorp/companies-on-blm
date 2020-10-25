@@ -1,7 +1,7 @@
 ---
 fortune_rank: 4
 name: Apple
-slug: apple
+tags: ["fortune500", "tech"]
 blm_statements:
   - url: https://www.apple.com/speaking-up-on-racism/
     date_posted: 2020-06-04

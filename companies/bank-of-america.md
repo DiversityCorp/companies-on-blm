@@ -1,7 +1,7 @@
 ---
 fortune_rank: 25
 name: Bank of America
-slug: bank-of-america
+tags: ["fortune500", "finance"]
 blm_statements:
   - url: https://newsroom.bankofamerica.com/press-releases/bank-america-announces-four-year-1-billion-commitment-supporting-economic
     date_posted: 2020-06-02

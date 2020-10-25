@@ -1,7 +1,7 @@
 ---
 fortune_rank: number
 name: Company Name
-slug: company-name-lowercase-dashes
+tags: ["fortune500", "sports", "tech", "realestate", "healthcare", "energy"]
 blm_statements:
   - url: url1
     date_posted: 2020-05-xx

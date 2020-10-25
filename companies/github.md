@@ -1,16 +1,17 @@
 ---
 name: GitHub, Inc.
-slug: github
+tags: ["tech"]
 blm_statements:
   - url: https://twitter.com/natfriedman/status/1266790816174882816?s=20
     date_posted: 2020-05-30
 exec_team_url: https://github.com/about/leadership
 diversity_inclusion_url: https://github.com/about/diversity
+ice_contract_url: https://www.latimes.com/business/technology/story/2020-06-12/github-ceo-black-lives-matter-employees-demand-end-ice-contract
 ---
 
 If you didn't know, the term "master" and "slave" reference the versions of a software project. In physical terms in computers, IDE HDDs ran on a "master" and "slave" configuration -- one was the first, and the other was the second. Hence, master and slave.
 
-GitHub CEO Nat Friedman replied to a tweet a few days ago to Una Kravets who is the director of product design at Bustle Digital Group. Kravets tweeted: "For what it's worth, I'm *super* happy to rename the default branch structure of "master" to "main" and I hope we can all do this together as a community with @github leading the charge by implementing in their product moving forward".
+GitHub CEO Nat Friedman replied to a tweet a few days ago to Una Kravets who is the director of product design at Bustle Digital Group. Kravets tweeted: "For what it's worth, I'm _super_ happy to rename the default branch structure of "master" to "main" and I hope we can all do this together as a community with @github leading the charge by implementing in their product moving forward".
 
 Friedman replied, saying: "It's a great idea and we are already working on this!"
 

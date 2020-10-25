@@ -1,7 +1,7 @@
 ---
 fortune_rank: 18
 name: General Motors
-slug: general-motors
+tags: ["fortune500"]
 blm_statements:
   - url: https://media.gm.com/media/us/en/gm/home.detail.html/content/Pages/news/us/en/2020/jun/0605-support.html
     date_posted: 2020-06-05

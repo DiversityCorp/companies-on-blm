@@ -1,7 +1,7 @@
 ---
 fortune_rank: 12
 name: Ford Motor
-slug: ford-motor
+tags: ["fortune500"]
 blm_statements:
   - url: https://www.cnbc.com/2020/06/02/ford-chiefs-letter-to-employees-on-tragic-death-of-george-floyd.html
     date_posted: 2020-06-01

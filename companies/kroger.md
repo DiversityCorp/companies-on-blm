@@ -1,7 +1,7 @@
 ---
 fortune_rank: 23
 name: Kroger
-slug: kroger
+tags: ["fortune500"]
 blm_statements:
   - url: https://www.thekrogerco.com/community/standing-together/
     date_posted: 2020-06-05

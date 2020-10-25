@@ -1,7 +1,7 @@
 ---
 fortune_rank: 30
 name: Wells Fargo
-slug: wells-fargo
+tags: ["fortune500", "finance"]
 blm_statements:
   - url: https://stories.wf.com/wells-fargo-ceo-a-watershed-moment/
     date_posted: 2020-06-19

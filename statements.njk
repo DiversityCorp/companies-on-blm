@@ -10,23 +10,13 @@ layout: layouts/base.njk
         <img src="https://pbs.twimg.com/media/EZXvqb6X0AEDkOI?format=jpg&name=medium" class="img-fluid" height="50%" alt="Responsive image">
     </div>
     <br/>
+    <div class="container">
+        <div class="row">
+            {% include "tagslist.njk" %}
+        </div>
+    </div>
     <div class="row">
-        {%- for company in collections.companiesSortedByBLMStatementDate -%}
-            <div class="col-sm-3">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">{{ company.data.name }}</h5>
-                        <p class="card-text">
-                            {% if 'blm_statements' in company.data %}
-                                {{company.data.blm_statements[0].date_posted | dateReadable}}
-                            {% else %}
-                                No BLM Statement Found
-                            {% endif %}
-                        </p>
-                        <a href="{{ company.url | url }}" class="btn btn-primary">See More</a>
-                    </div>
-                </div>
-            </div>
-        {%- endfor -%}
+        {% set companylist = collections.companies %}
+        {% include "companylist.njk" %}
     </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 fortune_rank: 2
 name: Amazon.com
-slug: amazon-com
+tags: ["fortune500", "tech"]
 blm_statements:
   - url: https://twitter.com/amazon/status/1267140211861073927/photo/1
     date_posted: 2020-05-31

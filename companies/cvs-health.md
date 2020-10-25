@@ -1,7 +1,7 @@
 ---
 fortune_rank: 5
 name: CVS Health
-slug: cvs-health
+tags: ["fortune500", "healthcare"]
 blm_statements:
   - url: https://twitter.com/CVSHealth/status/1271467616838787074
     date_posted: 2020-06-12

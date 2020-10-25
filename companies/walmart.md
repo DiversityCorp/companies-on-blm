@@ -1,7 +1,7 @@
 ---
 fortune_rank: 1
 name: Walmart
-slug: walmart
+tags: ["fortune500"]
 blm_statements:
   - url: https://corporate.walmart.com/newsroom/2020/06/12/advancing-our-work-on-racial-equity
     date_posted: 2020-06-12

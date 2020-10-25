@@ -1,7 +1,7 @@
 ---
 fortune_rank: 10
 name: AmerisourceBergen
-slug: amerisource-bergen
+tags: ["fortune500", "healthcare"]
 blm_statements:
   - url: https://www.linkedin.com/pulse/our-role-true-peace-steve-collis/
     date_posted: 2020-06-01

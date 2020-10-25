@@ -1,7 +1,7 @@
 ---
 fortune_rank: 7
 name: UnitedHealth Group
-slug: unitedhealth-group
+tags: ["fortune500", "healthcare"]
 blm_statements:
   - url: https://www.unitedhealthgroup.com/newsroom/posts/2020-06-01-support-george-floyd.html
     date_posted: 2020-06-01
