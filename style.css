@@ -8,6 +8,9 @@ body {
   height: 100%;
   display: flex;
   flex-direction: column;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
 }
 
 main {
@@ -15,13 +18,6 @@ main {
 }
 footer {
   flex-shrink: 0;
-}
-
-body, html {
-  height: 100%;
-  margin: 0;
-  font: 400 15px/1.8 "Lato", sans-serif;
-  color: #777;
 }
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
