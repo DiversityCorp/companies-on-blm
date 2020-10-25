@@ -151,4 +151,4 @@ Requirements :
 
 ### Upload files
 
-:exclamation:
+:exclamation: Don't forget to move the files from */new* to */archive/* once they have been uploaded.
