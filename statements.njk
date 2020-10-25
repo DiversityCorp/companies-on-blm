@@ -10,23 +10,24 @@ layout: layouts/base.njk
         <img src="https://pbs.twimg.com/media/EZXvqb6X0AEDkOI?format=jpg&name=medium" class="img-fluid" height="50%" alt="Responsive image">
     </div>
     <br/>
-    <div class="row">
-        {%- for company in collections.companiesSortedByBLMStatementDate -%}
-            <div class="col-sm-3">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">{{ company.data.name }}</h5>
-                        <p class="card-text">
-                            {% if 'blm_statements' in company.data %}
-                                {{company.data.blm_statements[0].date_posted | dateReadable}}
-                            {% else %}
-                                No BLM Statement Found
-                            {% endif %}
-                        </p>
-                        <a href="{{ company.url | url }}" class="btn btn-primary">See More</a>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                {%- for company in collections.companiesSortedByBLMStatementDate -%}
+                    <div class="border-bottom p-2">
+                        <a href="{{ company.url | url }}" class="m-3">
+                            <h3 class="mb-0 text-dark">{{ company.data.name }}</h3>
+                            <span class="badge badge-secondary p-2 mb-2">
+                                {% if 'blm_statements' in company.data %}
+                                    {{company.data.blm_statements[0].date_posted | dateReadable}}
+                                {% else %}
+                                    No BLM Statement Found
+                                {% endif %}
+                            </span>
+                        </a>
                     </div>
-                </div>
+                {%- endfor -%}
             </div>
-        {%- endfor -%}
+        </div>
     </div>
 </div>
