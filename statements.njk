@@ -15,8 +15,12 @@ layout: layouts/base.njk
             {% include "tagslist.njk" %}
         </div>
     </div>
-    <div class="row">
-        {% set companylist = collections.companies %}
-        {% include "companylist.njk" %}
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                {% set companylist = collections.companies %}
+                {% include "companylist.njk" %}
+            </div>
+        </div>
     </div>
 </div>

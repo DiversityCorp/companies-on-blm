@@ -1,64 +1,97 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Inter&family=Work+Sans&display=swap");
 
 .homepage {
-	font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
-html, body{
-	height: 100%;
+html,
+body {
+  height: 100%;
 }
 body {
-	display: flex;
-	flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
-main{
-	flex: 1 0 auto;
+main {
+  flex: 1 0 auto;
 }
-footer{
-	background-color: grey;
-	flex-shrink: 0;
+footer {
+  background-color: grey;
+  flex-shrink: 0;
 }
-h1,h2,p{
-	text-align: center;
+h1,
+h2,
+p {
+  text-align: center;
 }
-img{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	height: 100px;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
 }
 
-.logo{
-	height: 40px;
+.logo {
+  height: 40px;
 }
 
 ul.timeline {
-	list-style-type: none;
-	position: relative;
+  list-style-type: none;
+  position: relative;
 }
 ul.timeline:before {
-	content: ' ';
-	background: #d4d9df;
-	display: inline-block;
-	position: absolute;
-	left: 29px;
-	width: 2px;
-	height: 100%;
-	z-index: 400;
+  content: " ";
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
 }
 ul.timeline > li {
-	margin: 20px 0;
-	padding-left: 20px;
+  margin: 20px 0;
+  padding-left: 20px;
 }
 ul.timeline > li:before {
-	content: ' ';
-	background: white;
-	display: inline-block;
-	position: absolute;
-	border-radius: 50%;
-	border: 3px solid #22c0e8;
-	left: 20px;
-	width: 20px;
-	height: 20px;
-	z-index: 400;
+  content: " ";
+  background: white;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #22c0e8;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter", sans-serif;
+}
+
+a,
+p,
+span {
+  font-family: "Work Sans", sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
