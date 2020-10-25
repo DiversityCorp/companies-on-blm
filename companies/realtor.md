@@ -1,5 +1,5 @@
 ---
-name: Realtor.com
+name: realtor.com
 tags: ["realestate"]
 blm_statements:
   - url: https://www.realtor.com/homemade/standing-against-racial-injustice/
