@@ -2,6 +2,52 @@
 layout: layouts/base.njk
 ---
 
-<h1>{{name}}</h1>
+<container>
+  <h1 class="m-3">{{name}}</h1>
 
-{{ content | safe }}
+  <div class="row m-4">
+    <div class="col-sm-6">
+      {%- if image -%}
+        <img class="mx-auto img-fluid float-right" style="width: 500px;" src="{{ '/images/' + image | url }}">
+      {%- endif -%}
+    </div>
+    <div class="col-sm-6">
+      {%- for statement in blm_statements -%}
+        <div>
+          <a href="{{statement.url | url}}">
+            ✊ Statement posted
+            {{statement.date_posted | dateReadable }}
+          </a>
+        </div>
+        {%- if statement.raw_text %}
+          <div>
+            <a href="{{'content.html' | url}}">
+              📄 Statement raw text
+            </a>
+          </div>
+        {%- endif -%}
+      {%- endfor -%}
+      {%- if exec_team_url -%}
+        <div>
+          <a href="{{exec_team_url | url}}">
+            💼 Executive Team
+          </a>
+        </div>
+      {%- endif -%}
+      {%- if diversity_inclusion_url -%}
+        <div>
+          <a href="{{diversity_inclusion_url | url}}">
+            🗣 Diversity & Inclusion Committments
+          </a>
+        </div>
+      {%- endif -%}
+      {%- if ice_contract_url -%}
+        <div>
+          <a href="{{ice_contract_url | url}}">
+            🧊 ICE Contract Info
+          </a>
+        </div>
+      {%- endif %}
+    </div>
+  </div>
+</container>
