@@ -95,3 +95,8 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+
+.resource-summary{
+  text-align: left;
+  color: black;
+}
