@@ -8,8 +8,8 @@ module.exports = function (eleventyConfig) {
       }
     })
   )
-
-  eleventyConfig.addFilter("dateReadable", (date) => dateFns.format(date, "dd MMM yyyy"));
+  // date.toUTCString() => "Fri, 02 Feb 1996 03:04:05 GMT"
+  eleventyConfig.addFilter("dateReadable", (date) => date.toUTCString().split(" ").slice(1, 4).join(" "));
   eleventyConfig.addPassthroughCopy("./images");
   eleventyConfig.addPassthroughCopy("./CNAME");
   eleventyConfig.setDataDeepMerge(true);
