@@ -3,8 +3,8 @@ fortune_rank:
 name: Zoom Video Communications, Inc.
 slug: zoom
 blm_statements:
-  - url:
-    date_posted:
+  - url: https://twitter.com/zoom_us/status/1266877451646283776
+    date_posted: 2020-05-30
 exec_team_url: https://zoom.us/team?zcid=2554
 diversity_inclusion_url: https://blog.zoom.us/zoom-hires-damien-hooper-campbell-as-chief-diversity-officer/
 ---
@@ -24,5 +24,3 @@ As a next step, I'll be working with our leadership team, including our new Chie
 We look forward to continuing to figure out ways to lock arms with our employees, partners and others to stand together in non-violence against racism, injustice, and violence not only today, but also in the future.
 
 Eric
-
-NOTE: text of Eric Yuan Zoom CEO transcribed from image https://twitter.com/zoom_us/status/1266877451646283776
