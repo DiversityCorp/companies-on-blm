@@ -50,6 +50,15 @@ layout: layouts/base.njk
           </a>
         </div>
       {%- endif %}
+      {%- if additional_resources -%}
+        {%- for resource in additional_resources -%}
+          <div>
+            <a href="{{ resource.url | url }}">
+              ➕ {{ resource.display_name }}
+            </a>
+          </div>
+        {%- endfor -%}
+      {%- endif -%}
     </div>
   </div>
 </container>
