@@ -13,4 +13,7 @@ blm_statements:
 exec_team_url: url to company page
 diversity_inclusion_url: url to company page
 ice_contract_url: url to info about ICE contracts
+additional_resources:
+  - url: url3
+    display_name: url title
 ---
