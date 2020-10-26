@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="container">
+    <img src="{{ '/images/logo.png' | url }}" alt="">
+    <h2>Relevant resources</h2>
+    <p>Below, we have a list of blogs, tweets, and other commentary about Black Lives Matter.</p>
+    <br/>
+
+    
+    {%for resource in resources%}
+        
+        <a href="{{ resource.url | url }}">
+            <div>
+                <h4 >
+                    {{resource.title}}
+                </h4>
+                <p class="resource-summary">
+                    {{resource.summary}} 
+                </p> 
+            </div>
+        </a>
+        
+    {% endfor %}
+    <br/>
+</div>
