@@ -2,9 +2,15 @@
 fortune_rank: 9
 name: AT&T
 tags: ["fortune500"]
+image: att.jpeg
 blm_statements:
+  - url: https://twitter.com/ATT/status/1267195460143513606?s=20
+    date_posted: 2020-05-31
+    type: Tweet
+    raw_text: Our advocacy toward equality and inclusivity continues today and will for the future. The events of the past few days underscore the violence and racism faced by black people in America today.  At AT&T we stand for equality and embrace freedom.
   - url: https://about.att.com/pages/racial_equality
     date_posted: 2020-06-23
+    type: Blog
 exec_team_url: https://investors.att.com/corporate-governance/board-of-directors
 diversity_inclusion_url: https://about.att.com/pages/diversity
 ice_contract_url: https://www.vice.com/en/article/8xwkxb/att-has-received-dollar14-million-from-ice-this-year

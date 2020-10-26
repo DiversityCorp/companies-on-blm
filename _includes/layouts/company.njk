@@ -15,18 +15,20 @@ layout: layouts/base.njk
       {%- for statement in blm_statements -%}
         <div>
           <a href="{{statement.url | url}}">
-            ✊ Statement posted
+            ✊
+            {{statement.type}}
+            posted
             {{statement.date_posted | dateReadable }}
           </a>
         </div>
-        {%- if statement.raw_text %}
-          <div>
-            <a href="{{'content.html' | url}}">
-              📄 Statement raw text
-            </a>
-          </div>
-        {%- endif -%}
       {%- endfor -%}
+      {%- if blm_statements | length > 0 %}
+        <div>
+          <a href="{{'content/index.html' | url}}" alt="{{statement.raw_text}}">
+            📄 View raw text
+          </a>
+        </div>
+      {%- endif -%}
       {%- if exec_team_url -%}
         <div>
           <a href="{{exec_team_url | url}}">

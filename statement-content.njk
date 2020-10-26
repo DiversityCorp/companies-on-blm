@@ -9,12 +9,19 @@ eleventyComputed:
   title: "{{ company.data.name | capitalize }} Statements Raw Text"
 ---
 
-{% for statement in company.data.blm_statements %}
-  {% if statement.raw_text %}
-    <h2>Statement posted
-      {{statement.date_posted | dateReadable }}</h2>
-    <p>
-      {{statement.raw_text}}
-    </p>
-  {% endif %}
-{% endfor %}
+<div class="container">
+  <h1>{{ company.data.name | capitalize }}
+    Statements Raw Text</h1>
+  <p>We display the raw text in case the company deletes the statements. We also welcome you to scrape our data and perform analytics on these statements.</p>
+
+  {% for statement in company.data.blm_statements %}
+    {% if statement.raw_text %}
+      <h2>{{statement.type}}
+        posted
+        {{statement.date_posted | dateReadable }}</h2>
+      <p class="statement">
+        {{statement.raw_text}}
+      </p>
+    {% endif %}
+  {% endfor %}
+</div>
