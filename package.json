@@ -5,7 +5,9 @@
   "scripts": {
     "build": "env NODE_ENV=production npx eleventy",
     "serve": "npx eleventy --serve",
-    "debug": "DEBUG=* npx eleventy"
+    "debug": "DEBUG=* npx eleventy",
+    "postinstall": "husky install",
+    "lint-staged": "lint-staged"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
@@ -13,5 +15,17 @@
   },
   "engines": {
     "node": "12"
+  },
+  "devDependencies": {
+    "lint-staged": "^10.5.0",
+    "markdownlint": "^0.21.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo \"Linting...\" && lint-staged"
+    }
+  },
+  "lint-staged": {
+    "./companies/*.md": "markdownlint"
   }
 }
