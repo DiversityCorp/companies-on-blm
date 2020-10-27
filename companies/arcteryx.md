@@ -6,7 +6,7 @@ blm_statements:
   - url: https://www.instagram.com/p/CA5v5wYJsb0/
     date_posted: 2020-06-01
     type: Instagram
-    raw_text: 
+    raw_text: >
     We have stayed silent too long. 
     
     There is systemic racism haunting the communities we love. We felt as though an Instagram post without action couldn’t meaningfully address this systemic problem – but we realize that an issue this entrenched must be named, and we must speak up.⁣
