@@ -1,7 +1,7 @@
 ---
 name: Arc'teryx
 tags: ["sports"]
-image: arcteryx.jpeg
+image: arcteryx.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA5v5wYJsb0/
     date_posted: 2020-06-01
