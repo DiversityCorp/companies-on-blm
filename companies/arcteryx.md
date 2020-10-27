@@ -1,5 +1,4 @@
 ---
-fortune_rank: number
 name: Arc'teryx
 tags: ["fortune500", "sports"]
 image: arcteryx.jpeg
