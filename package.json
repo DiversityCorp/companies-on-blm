@@ -18,7 +18,8 @@
   },
   "devDependencies": {
     "husky": "^4.3.0",
-    "lint-staged": "^10.5.0"
+    "lint-staged": "^10.5.0",
+    "yaml-lint": "^1.2.4"
   },
   "husky": {
     "hooks": {
@@ -26,6 +27,6 @@
     }
   },
   "lint-staged": {
-    "./companies/*.md": "markdownlint"
+    "./companies/*.md": "yamllint --schema=CORE_SCHEMA"
   }
 }
