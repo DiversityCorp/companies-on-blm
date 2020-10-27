@@ -68,4 +68,7 @@ blm_statements:
 
 exec_team_url: https://www.chevron.com/about/leadership
 diversity_inclusion_url: https://www.chevron.com/sustainability/performance/diversity-inclusion
+additional_resources:
+  - url: https://insideclimatenews.org/news/19062020/chevron-black-lives-matter-twitter
+    display_name: Chevron’s ‘Black Lives Matter’ Tweet Prompts a Debate About Big Oil and Environmental Justice
 ---
