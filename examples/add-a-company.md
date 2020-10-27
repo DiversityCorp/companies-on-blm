@@ -6,7 +6,7 @@ image: name-in-images-folder.png
 blm_statements:
   - url: url1
     date_posted: 2020-05-xx
-    type: Twitter
+    type: Tweet
     raw_text: Blah blah blah
   - url: url2
     date_posted: 2020-06-xx
