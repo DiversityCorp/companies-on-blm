@@ -39,3 +39,11 @@ The following Google searches are helpful for finding statements & relevant arti
 - <company name> George Floyd
 - <company name> Diversity
 - <company name> Inclusion
+
+Instagram:
+
+Google `<company name> Instagram` to find their account and scroll down towards the end of May/early June. The statement is generally a black background.
+
+LinkedIn:
+
+Google `<company name> LinkedIn` to find their account and locate a statement towards the end of May/early June.
