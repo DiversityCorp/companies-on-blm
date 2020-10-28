@@ -38,6 +38,8 @@ CSV files are tabular text files, where each line is a row of the table and the 
 
 [A guide to CSV format](https://www.computerhope.com/issues/ch001356.htm)
 
+:exclamation: Please specify timestamps with the time zone, dates in YYYY-MM-DD format and numbers with dots as the decimal separator and no commas or unit symbols (e.g. 12000 and not $12.000).
+
 :exclamation: When a field contains commas, please [enclose it between quotes](https://stackoverflow.com/questions/4617935/is-there-a-way-to-include-commas-in-csv-columns-without-breaking-the-formatting) so it's not split by the csv reader!
 
 ### Update the table with basic company information
@@ -116,10 +118,10 @@ This table only accepts information for companies that already are in the table 
 
 | event_at | commpany_name | keywords | description | statement_text | official_url | analysis_url |
 |-|-|-|-|-|-|-|
-| Timestamp | Must be the same as the 'usual_name' in the companies table. Cannot be null | A list of comma-separated keywords, in between quotes, e.g. "blm, diversity policy, website banner" | Short description if appropriate | Official statement of the company | Link to official website or press release | Link to an analysis article online |
+| Timestamp with time zone | Must be the same as the 'usual_name' in the companies table. Cannot be null | A list of comma-separated keywords, in between quotes, e.g. "blm, diversity policy, website banner" | Short description if appropriate | Official statement of the company | Link to official website or press release | Link to an analysis article online |
 
 You can copy this as a header:
-`event_at, commpany_name, keywords, description, statement_text, official_url, analysis_url`
+`event_at, company_name, keywords, description, statement_text, official_url, analysis_url`
 
 ## Update and download the database
 
