@@ -153,4 +153,4 @@ Requirements :
 
 ### Upload files
 
-:exclamation: Don't forget to move the files from */new* to */archive/* once they have been uploaded.
+:exclamation: Don't forget to move the files from */new* to */archive/* once they have been uploaded, or to */broken/* if the upload fails so they can be reviewed.
