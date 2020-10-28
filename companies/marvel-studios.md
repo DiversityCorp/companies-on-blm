@@ -1,5 +1,7 @@
 ---
+fortune_rank: 49
 name: Marvel Studios
+tags: ["fortune500"]
 image: marvel-studios.jpg
 blm_statements:
   - url: https://twitter.com/MarvelStudios/status/1267202512857096192
