@@ -2,7 +2,7 @@
 fortune_rank: 45
 name: Intel
 tags: ["fortune500", "tech", "computers", "artificial intelligence"]
-image: name-in-images-folder.png
+image: EZe6DCEWoAEim0h.jpeg
 blm_statements:
   - url: https://newsroom.intel.com/news/bob-swan-note-to-intel-employees/
     date_posted: 2020-05-31
@@ -15,7 +15,7 @@ blm_statements:
   - url: https://twitter.com/intel/status/1267686382849441792
     date_posted: 2020-06-02
     type: Twitter
-    raw_text: blackouttuesday, blacklivesmatter
+    raw_text: #blackouttuesday, #blacklivesmatter
 
 exec_team_url: https://newsroom.intel.com/biographies/executive-management/
 diversity_inclusion_url: https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html
