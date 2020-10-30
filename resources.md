@@ -28,4 +28,7 @@ resources:
 
   - url: https://theconversation.com/black-lives-matter-must-avoid-being-co-opted-by-american-corporate-philanthropy-141927
     title: Black Lives Matter must avoid being co-opted by American corporate philanthropy
+  
+  - url: https://www.edelman.com/sites/g/files/aatuss191/files/2020-09/2020%20Edelman%20Trust%20Barometer%20Special%20Report%20-%20Fight%20for%20Racial%20Justice.pdf
+    title: Edelman Trust Barometer 2020 - The Fight for Racial Justice in America
 ---
