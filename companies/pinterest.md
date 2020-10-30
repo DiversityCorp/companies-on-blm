@@ -36,16 +36,11 @@ blm_statements:
         With everything we do, we will make it clear that our Black employees matter, Black Pinners and creators matter, and Black Lives Matter.  
 
         Ben
-  - url: https://www.usatoday.com/story/money/2020/08/17/pinterest-adds-black-exec-its-boards-following-racism-allegations/3379478001/
-    date_posted: 2020-08-17
-    type: Announcement
-    raw_text: Reeling from charges of racism and gender discrimination, Pinterest on Monday named a Black executive to its board of directors.
-  - url: https://www.washingtonpost.com/technology/2020/07/03/pinterest-race-bias-black-employees/
-    date_posted: 2020-07-03
-    type: Story
-    raw_text: Former Pinterest employees say they faced racial discrimination and were underpaid.
-
 additional_resources:
+  - url: https://www.washingtonpost.com/technology/2020/07/03/pinterest-race-bias-black-employees/
+    display_name: Former Pinterest employees say they faced racial discrimination and were underpaid.
   - url: https://www.cnet.com/news/former-pinterest-employees-say-they-faced-racial-discrimination-and-were-underpaid/
     display_name: Former Pinterest employees say they faced racial discrimination and were underpaid.
+  - url: https://www.usatoday.com/story/money/2020/08/17/pinterest-adds-black-exec-its-boards-following-racism-allegations/3379478001/
+    display_name: Reeling from charges of racism and gender discrimination, Pinterest on Monday named a Black executive to its board of directors
 ---
