@@ -2,7 +2,7 @@
 fortune_rank: 45
 name: Intel
 tags: ["fortune500", "tech", "computers", "artificial intelligence"]
-image: EZe6DCEWoAEim0h.jpeg
+image: intel.jpeg
 blm_statements:
   - url: https://newsroom.intel.com/news/bob-swan-note-to-intel-employees/
     date_posted: 2020-05-31
