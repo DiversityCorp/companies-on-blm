@@ -4,7 +4,7 @@
 
 We are focused on holding companies accountable.
 
-In response to the Black Lives Matter, many companies posted simple soldarity statements without committing to actual change.
+In response to the Black Lives Matter, many companies posted simple solidarity statements without committing to actual change.
 We want to hold companies accountable by highlighting the change (or lack of change) they have implemented in their teams, as well as the diversity of the leadership in their company.
 
 # How to get started
@@ -48,5 +48,5 @@ npm run serve
 - `companies/` has the company data. All that is required is the company value.
 - look in the `examples` folder for a template on how to add data for a company.
 - This site uses two layouts:
-  - `_includes/layouts/base.njk`: the top level HTML structure
+  - `_includes/layouts/base.njk`: the top-level HTML structure
   - `_includes/layouts/company.njk`: the company page template (wrapped into `base.njk`)
