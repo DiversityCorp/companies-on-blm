@@ -43,8 +43,7 @@ blm_statements:
   - url: https://www.washingtonpost.com/technology/2020/07/03/pinterest-race-bias-black-employees/
     date_posted: 2020-07-03
     type: Story
-    raw_text: Former Pinterest employees say they faced racial discrimination and were underpaid
-Ifeoma Ozoma and Aerica Shimizu Banks, both black women, publicly accuse Pinterest.
+    raw_text: Former Pinterest employees say they faced racial discrimination and were underpaid.
 
 additional_resources:
   - url: https://www.cnet.com/news/former-pinterest-employees-say-they-faced-racial-discrimination-and-were-underpaid/
