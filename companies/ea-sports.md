@@ -9,7 +9,7 @@ blm_statements:
     url: https://twitter.com/EAMaddenNFL/status/1267172458290974720?s=20
     date_posted: 2020-05-31
     type: Tweet
-    url: https://www.instagram.com/p/CA-7tgOFxte/?hl=en
+  - url: https://www.instagram.com/p/CA-7tgOFxte/?hl=en
     date_posted: 2020-06-03
     type: Instagram
     raw_text: We need to do more, and must do more. This is a long term commitment. Here are the actions we're taking today.
