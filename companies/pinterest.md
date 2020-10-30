@@ -5,7 +5,8 @@ image: NewsroomPost-Header-200602_0.jpg
 blm_statements:
   - url: https://newsroom.pinterest.com/en/post/listening-and-acting
     date_posted: 2020-06-02
-    type: Blog post >
+    type: Blog post
+    raw_text:  >
         Hello.
 
         This morning we hosted an open conversation with our entire company.
@@ -35,7 +36,6 @@ blm_statements:
         With everything we do, we will make it clear that our Black employees matter, Black Pinners and creators matter, and Black Lives Matter.  
 
         Ben
-    raw_text: Reeling from charges of racism and gender discrimination, Pinterest on Monday named a Black executive to its board of directors.
   - url: https://www.usatoday.com/story/money/2020/08/17/pinterest-adds-black-exec-its-boards-following-racism-allegations/3379478001/
     date_posted: 2020-08-17
     type: Announcement
