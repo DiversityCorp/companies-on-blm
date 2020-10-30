@@ -9,8 +9,9 @@ blm_statements:
     raw_text:
       "There is no place in our world for racial injustice.
 	  I am thinking of our employees, customers, partners and communitiesw who are hurting and angry.  
-	  My prayers go out to you. We must be better and make the world a better place for everyone in it." 
-	  PatGelsinder, VMware CEO
+	  My prayers go out to you. We must be better and make the world a better place for everyone in it.
+	  --PatGelsinder, VMware CEO" 
+	 
 exec_team_url: https://www.vmware.com/ca/company/leadership.html
 diversity_inclusion_url: https://www.vmware.com/ca/company/diversity.html
 additional_resources:
