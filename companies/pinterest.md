@@ -40,7 +40,7 @@ blm_statements:
     date_posted: 2020-08-17
     type: Announcement
     raw_text: Reeling from charges of racism and gender discrimination, Pinterest on Monday named a Black executive to its board of directors.
-  - url: https://discord.com/channels/771466881117716530/771466881117716533/771524628644102145
+  - url: https://www.washingtonpost.com/technology/2020/07/03/pinterest-race-bias-black-employees/
     date_posted: 2020-07-03
     type: Story
     raw_text: Former Pinterest employees say they faced racial discrimination and were underpaid
