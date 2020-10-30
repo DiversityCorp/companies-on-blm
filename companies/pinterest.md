@@ -1,7 +1,7 @@
 ---
 name: Pinterest
 tags: ["tech", "social media"]
-image: NewsroomPost-Header-200602_0.jpg
+image: pinterest.jpg
 blm_statements:
   - url: https://newsroom.pinterest.com/en/post/listening-and-acting
     date_posted: 2020-06-02
