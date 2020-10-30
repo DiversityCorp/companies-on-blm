@@ -31,6 +31,5 @@ blm_statements:
 
     This letter, written by a major-label executive who has worked at all three major record companies, has been circulating through the industry.
 
-    https://www.billboard.com/articles/business/9400468/dear-white-music-label-executives-anonymous-letter-racism-industry
 diversity_inclusion_url: https://www.billboard.com/articles/news/67853/diversity-credibility-prove-to-be-hallmark-of-bmas
 ---
