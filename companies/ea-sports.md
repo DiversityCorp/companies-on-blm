@@ -6,7 +6,7 @@ blm_statements:
   - url: https://www.ea.com/news/ea-actions-against-racial-injustice
     date_posted: 2020-06-03
     type: message from CEO to employees
-    url: https://twitter.com/EAMaddenNFL/status/1267172458290974720?s=20
+  - url: https://twitter.com/EAMaddenNFL/status/1267172458290974720?s=20
     date_posted: 2020-05-31
     type: Tweet
   - url: https://www.instagram.com/p/CA-7tgOFxte/?hl=en
