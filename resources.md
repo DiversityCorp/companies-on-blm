@@ -31,4 +31,9 @@ resources:
   
   - url: https://www.edelman.com/sites/g/files/aatuss191/files/2020-09/2020%20Edelman%20Trust%20Barometer%20Special%20Report%20-%20Fight%20for%20Racial%20Justice.pdf
     title: Edelman Trust Barometer 2020 - The Fight for Racial Justice in America
+  - url: https://www.businessinsider.com/netflix-verna-myers-inclusion-how-to-lead-dei-initiatives-training-2020-10
+    title: Netflix's VP of inclusion strategy specifically uses anti-racist language to build equity in the workplace
+  - url: http://www.blackgirldangerous.com/2013/09/no-more-allies/
+    title: No more "Allies"
+    
 ---
