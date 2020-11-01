@@ -74,4 +74,7 @@ blm_statements:
       Black Lives Matter. It is all our responsibilities to embrace that fact in what we say and what we do. There’s no way to live our values if we don’t. So, let’s push ourselves even harder to create an inclusive and equitable culture at Walmart – for each other, for our customers and for our communities. Thank you for doing your part.
 exec_team_url: https://corporate.walmart.com/our-story/leadership
 diversity_inclusion_url: https://corporate.walmart.com/global-responsibility/diversity-equity-and-inclusion
+additional_resources:
+  - url: https://theappeal.org/how-walmart-is-helping-prosecutors-get-10-year-sentences-for-shoplifting-7d868e8b38b8/
+    display_name: How Walmart is Helping Prosecutors Pursue 10-Year Sentences for Shoplifting
 ---
