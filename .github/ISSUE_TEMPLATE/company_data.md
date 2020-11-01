@@ -37,10 +37,10 @@ Google:
 
 The following Google searches are helpful for finding statements & relevant articles about a company:
 
-- <company name> Black Lives Matter
-- <company name> George Floyd
-- <company name> Diversity
-- <company name> Inclusion
+- `<company name> Black Lives Matter`
+- `<company name> George Floyd`
+- `<company name> Diversity`
+- `<company name> Inclusion`
 
 Instagram:
 
