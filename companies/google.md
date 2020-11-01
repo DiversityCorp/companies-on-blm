@@ -2,7 +2,12 @@
 fortune_rank: 11
 name: Google
 tags: ["fortune500", "tech"]
+image: google.jpeg
 blm_statements:
+  - url: https://twitter.com/Googleorg/status/1268214571124260867?s=20
+    date_posted: 2020-06-03
+    type: Tweet
+    raw_text: We're making a new $12M commitment to fund organizations working to address racial inequity, starting with grants to @PolicingEquity & @eji_org. Learn more ↓
   - url: https://blog.google/inside-google/company-announcements/standing-with-black-community
     date_posted: 2020-06-03
     type: Blog
