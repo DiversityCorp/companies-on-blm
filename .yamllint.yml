@@ -11,3 +11,5 @@ rules:
     spaces: 2
     indent-sequences: true
     check-multi-line-strings: true
+  line-length: disable
+  
