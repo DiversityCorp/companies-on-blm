@@ -12,7 +12,7 @@ blm_statements:
   - url: https://www.cnbc.com/2020/06/19/no-job-hire-made-unless-minority-candidate-interviewed-vmware-ceo.html
     type: CNBC Article
     date_posted: 2020-06-19
-    raw_text: |
+    raw_text: >
         As the movement for racial equality after the death of George Floyd leads to an awakening within the corporate sector few saw coming just weeks ago, CEOs of major companies have been told they need to do more than just issue statements of support or make charitable contributions if they want to make a difference. Looking within their own house is a good place to start, former Senior Obama White House Advisor Valerie Jarrett recently told CNBC. 
         
         VMware CEO Pat Gelsinger is making one move within his company to reflect its own need to create a more diverse workplace. Speaking at a CNBC Work virtual Spotlight on Thursday, Gelsinger said the $63 billion software company has updated its diversity policy in hiring as a result of recent events.
