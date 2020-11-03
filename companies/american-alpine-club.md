@@ -13,8 +13,6 @@ blm_statements:
     raw_text: >
      Black lives matter—throughout the country and at the crag. The American Alpine Club stands in solidarity with those protesting systemic racism on the frontlines and from home. As climbers and as humans, we believe that racism has no place in our craft or our country.
      
-     Please read our full statement, "The AAC Stands in Solidarity."
-     
-     https://bit.ly/2BmOZFf
+     Please read our full statement, "The AAC Stands in Solidarity." https://bit.ly/2BmOZFf
 exec_team_url: https://americanalpineclub.org/staff
 diversity_inclusion_url: https://americanalpineclub.org/news/2020/6/2/the-aac-stands-in-solidarity
