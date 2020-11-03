@@ -2,7 +2,6 @@ import os
 import psycopg2
 import time
 import datetime
-import pandas as pd
 
 
 def connect_to_database():
