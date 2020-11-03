@@ -45,7 +45,7 @@ CSV files are tabular text files, where each line is a row of the table and the 
 ### Update the table with basic company information
 **TARGET = companies**
 
-This is the only table that accepts information on companies that are not in the database yet. Companies that already exist in the database will have their information updated (= overwritten), expect for fields where the new data is `null`.
+This is the only table that accepts information on companies that are not in the database yet. Companies that already exist in the database will have their information updated (= overwritten), except for fields where the new data is `null`.
 
 Expected columns are:
 
