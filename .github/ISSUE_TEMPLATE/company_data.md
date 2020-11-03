@@ -13,6 +13,8 @@ Use `companies-on-blm/examples/add-a-company.md` as a reference for how to add d
 
 #### Helpful tips
 
+Image: Save the image from a tweet, instagram, or Facebook post and rename it to the company name and place in the `images` folder. Reference the name of the file in the `image` field for the company you're working on.
+
 Fortune Rank: Search for the company [here](https://fortune.com/fortune500/2020/search/). If they aren't ranked by Fortune, take this field out.
 
 Twitter: Use the [advanced search](https://www.twitter.com/search-advanced) feature.
@@ -35,10 +37,10 @@ Google:
 
 The following Google searches are helpful for finding statements & relevant articles about a company:
 
-- <company name> Black Lives Matter
-- <company name> George Floyd
-- <company name> Diversity
-- <company name> Inclusion
+- `<company name> Black Lives Matter`
+- `<company name> George Floyd`
+- `<company name> Diversity`
+- `<company name> Inclusion`
 
 Instagram:
 

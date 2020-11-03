@@ -1,0 +1,15 @@
+extends: default
+
+yaml-files:
+  - '*.yaml'
+  - '*.yml'
+  - '.yamllint'
+  - '*.md'
+
+rules:
+  indentation:
+    spaces: 2
+    indent-sequences: true
+    check-multi-line-strings: true
+  line-length: disable
+  
