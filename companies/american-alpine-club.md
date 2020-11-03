@@ -17,5 +17,5 @@ blm_statements:
      
      https://bit.ly/2BmOZFf
 exec_team_url: https://americanalpineclub.org/staff
-diversity_inclusion_url: https://americanalpineclub.org/news/2020/6/2/the-aac-stands-in-solidarity?fbclid=IwAR0eNytmunD0H0s915uGahQA069P4UxdTeMU14a7Q_uo0ELZ0kMTOxjE-Wc
+diversity_inclusion_url: https://americanalpineclub.org/news/2020/6/2/the-aac-stands-in-solidarity
 
