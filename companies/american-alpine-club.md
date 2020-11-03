@@ -5,8 +5,8 @@ blm_statements:
   - url: https://twitter.com/americanalpine/status/1267946389482266625
     date_posted: 2020-06-02
     type: Tweet
-    raw_text: >
-      Black lives matter—throughout the country and at the crag. The AAC stands in solidarity with those protesting systemic racism on the frontlines and from home. 
+    raw_text: > 
+       Black lives matter—throughout the country and at the crag. The AAC stands in solidarity with those protesting systemic racism on the frontlines and from home. 
   - url: https://www.facebook.com/AmericanAlpineClub/photos/a.310680388934/10157980875738935/
     date_posted: 2020-06-02
     type: Blog
