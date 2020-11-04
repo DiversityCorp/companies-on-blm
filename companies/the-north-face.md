@@ -5,9 +5,7 @@ blm_statements:
     date_posted: 2020-05-30
     type: Facebook
     raw_text: >
-      We know and acknowledge that for too long, racism has made the world unequal and unsafe. We recognize the pain and suffering racism has caused and are making a commitment to be part of the solution. We are standing up, because we owe it to everyone affected, ourselves and you.
-      
-      Find out more: https://bit.ly/TnfTheApproachStandUp
+      We know and acknowledge that for too long, racism has made the world unequal and unsafe. We recognize the pain and suffering racism has caused and are making a commitment to be part of the solution. We are standing up, because we owe it to everyone affected, ourselves and you. Find out more: https://bit.ly/TnfTheApproachStandUp
   - url: https://www.facebook.com/thenorthface/videos/601220774146258/
     date_posted: 2020-06-08
     type: Facebook
