@@ -10,7 +10,7 @@ blm_statements:
       The following is a memo sent by Gregory J. Hayes to Raytheon Technologies employees on June 1st.
       Colleagues –
 
-      Over the weekend, we witnessed protest and unrest in many of our cities, and I want to address it directly. 
+      Over the weekend, we witnessed protest and unrest in many of our cities, and I want to address it directly.
 
       The death of George Floyd was the result of a reprehensible act. Although authorities are taking action to ensure justice, the national response and global dialogue related to Mr. Floyd’s death point to a serious issue ― and we must not look away. We must take notice. We have to respond clearly that racism, discrimination and hatred will not be tolerated. We must take this moment to embrace the fundamental values that unite us.
 
