@@ -6,7 +6,7 @@ blm_statements:
   - url: https://www.rtx.com/News/2020/06/10/we-must-stand-together
     date_posted: 2020-06-10
     type: Company memo
-    raw_text: 
+    raw_text: >
       The following is a memo sent by Gregory J. Hayes to Raytheon Technologies employees on June 1st.
       Colleagues –
 
