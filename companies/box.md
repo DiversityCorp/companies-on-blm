@@ -1,6 +1,5 @@
 ---
 name: Box
-slug: box
 blm_statements:
   - url: https://twitter.com/levie/status/1267119581627211777?s=20
     date_posted: 2020-05-31
