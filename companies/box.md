@@ -1,5 +1,4 @@
 ---
-fortune_rank: 93
 name: Box
 slug: box
 blm_statements:
