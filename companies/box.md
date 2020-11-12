@@ -5,6 +5,7 @@ image: box.jpeg
 blm_statements:
   - url: https://twitter.com/levie/status/1267119581627211777?s=20
     date_posted: 2020-05-31
+    type: Tweet
     raw_text: >
       We stand in solidarity with the Black community against racism, hate, and injustice. Silence and complacency have no place in our world.  Our values and our humanity call us to action.
 
