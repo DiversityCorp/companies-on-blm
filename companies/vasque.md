@@ -14,9 +14,6 @@ blm_statements:
       As we watch the frustration of centuries of systemic and brutal racism erupt in our backyard it is clear to us that our work now, as a white-led organization, is to listen, to learn, to show up, to donate, and to use our voice to help create the change that is desperately needed in our communities. This is not the world that we want to pass on to the next generation, and we will not stop until peace and equity is no longer just a dream.
 
       Allison Gettings, Vasque President
-exec_team_url: url to company page
-diversity_inclusion_url: url to company page
-ice_contract_url: url to info about ICE contracts
 additional_resources:
   - url: https://www.snewsnet.com/press-release/vasque-announces-leadership-and-organizational-transitions
     display_name: Vasque Announces Leadership and Organizational Transitions
