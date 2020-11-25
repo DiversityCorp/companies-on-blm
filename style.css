@@ -146,8 +146,41 @@ a:active {
   text-decoration: none;
 }
 
-
 .resource-summary{
   text-align: left;
   color: black;
+}
+
+.why-container {
+  padding-top: 50px;
+  color: black;
+}
+
+.why-container h2 {
+  margin-bottom: 30px;
+}
+
+.why-img-text-container {
+  display: flex;
+  align-items: center;
+}
+
+.why-container img {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.why-container p {
+  margin-bottom: 0;
+  margin-top: 30px;
+  padding: 28px 40px;
+  border-style: dotted;
+}
+
+@media (min-width: 992px) {
+  .why-container p {
+    margin-top: 0;
+  }
 }
