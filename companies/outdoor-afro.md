@@ -30,9 +30,8 @@ blm_statements:
     type: Instagram
     raw_text: >
       A MESSAGE FROM OUTDOOR AFRO:
-
-      First, we would like to extend our sincere gratitude for the outpouring of support we 
-      have received over the past several days, in the form of new followers and monetary donations.
+      
+      First, we would like to extend our sincere gratitude for the outpouring of support we have received over the past several days, in the form of new followers and monetary donations.
       
       For eleven years, Outdoor Afro has supported our communities, online and in person, through empowered Black connections and Black joy in nature.
       
@@ -52,7 +51,7 @@ blm_statements:
 
       Engage with companies, not-for-profits, and leadership to ensure that no communities disproportionately carry the costs of climate change.
 
-      Advocate for increased transportation funding to lower barriers to nature, so that more people, especially youth and their families, can have efficient, affordable means to get outdoors - especially to those places close to home. 
+      Advocate for increased transportation funding to lower barriers to nature, so that more people, especially youth and their families, can have efficient, affordable means to get outdoors - especially to those places close to home.
       
       Defend the protection of sacred public lands and the communities that depend on them.
       
