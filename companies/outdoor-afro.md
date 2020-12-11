@@ -11,15 +11,15 @@ blm_statements:
       Dear Friends,
       
       The intentional violence and weapon of United States racism in the outdoors is so pervasive and strong, that even a bird watching enthusiast in an iconic urban park could not escape it.
-
+      
       This is why Outdoor Afro exists.
-
+      
       Birds are a beloved and beautiful symbol of freedom; borderless in both spirit and movement to roam for their sustainability.  A stark contrast to the continued constraints Black people far too often feel and experience on the same earth we share with birds, wildlife, and other humans.
-
+      
       With as much progress as Outdoor Afro has led in the last decade, the continued open-season on Black bodies in the outdoors remains horrifying — and makes it understandable why so many of our folks won't go to parks anywhere in this country, especially alone. America has a dark and very recent past where Black lives were terrorized, maimed, and taken in wilderness settings. Today our people still experience all kinds of passive and aggressive behavior in nature from fellow park users while simply trying to recreate. The difference here is that the incident in New York City’s Central Park was filmed, and that brother Black man is also a board member of an esteemed wildlife conservation organization.
-
+      
       But few Black people have these credentials along with a fleeting chance to capture on film the unexpected timing when racism strikes — this is why it is Outdoor Afro’s explicit and evergreen mission to make sure all Black people, regardless of their affiliations or outdoor skills, can be treated with respect in nature at all times, anywhere and, at minimum, absolutely without the threat of violence.
-
+      
       Outdoor Afro will continue to  support our communities, online and in real life, through empowered connections with nature, where Black people can be our full selves: beautiful, strong, and free. Our national volunteer network of trained leaders will continue with even greater resolve to share words of inspiration and hope, while planning healing outdoor events, including birdwatching, in public lands that belong to everyone. Your support continues to help us do this life affirming and critical work.
 
       Peace and Nature,
