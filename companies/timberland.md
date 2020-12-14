@@ -1,10 +1,8 @@
 ---
 name: Timberland
-tags: ["outdoors"]
-image:
 blm_statements:
   - url: https://www.instagram.com/p/CA3kcWTjUo5/
-    date_posted: 2020-05-30
+    date_posted: 2020-05-31
     type: Instagram
     raw_text: >
         In 1992 we shared a message. Sadly, we bring it back today. We don’t want to. We shouldn’t have to. As humans, we have the responsibility to care for our planet, ourselves, and each other—all of us, no matter who you are. Let’s work together now for a better future. Caring is no longer enough.Use your voice. Take action at colorofchange.org
