@@ -2,7 +2,7 @@
 name: Timberland
 tags: ["outdoors"]
 blm_statements:
-- url: https://www.instagram.com/p/CA3kcWTjUo5/
+  - url: https://www.instagram.com/p/CA3kcWTjUo5/
     date_posted: 2020-05-31
     type: Instagram
     raw_text: >
