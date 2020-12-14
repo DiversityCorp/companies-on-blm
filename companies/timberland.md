@@ -12,7 +12,7 @@ blm_statements:
     date_posted: 2020-05-31
     type: Tweet
     raw_text: >
-        In 1992 we shared a message. Sadly, we bring it back today. We have the responsibility to care for our planet, ourselves + each other no matter who you are. Let’s work together for a better future. Caring is no longer enough. 
+        In 1992 we shared a message. Sadly, we bring it back today. We have the responsibility to care for our planet, ourselves + each other no matter who you are. Let’s work together for a better future. Caring is no longer enough.
         Use your voice. Take action: https://bit.ly/2Bf3haV
 exec_team_url: https://www.timberland.com/about-us.html
 diversity_inclusion_url: https://www.timberland.com/responsibility/community.html
