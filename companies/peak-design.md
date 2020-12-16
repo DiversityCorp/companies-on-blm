@@ -8,7 +8,7 @@ blm_statements:
     type: Instagram
     raw_text: >
       Businesses need to speak up. They cannot be silent while another black person is killed in America.⁠⠀
-⁠
+
       We just made a donation to @aclu_nationwide, @naacp, and @splcenter. Those donations are not some sort of magic fix for deeply ingrained and systematic racism, but they do help put resources into the hands of those who fight day in and day out for racial and social justice. It is a start.⁠⠀
 
       We challenge 5 businesses we admire, @patagonia @rei @kickstarter @huckberry and @nomad, to use their platforms to speak up about racism, and make a donation of their own. It is time to #saysomethinggiveanything⁠⠀
