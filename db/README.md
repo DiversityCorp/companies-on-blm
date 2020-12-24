@@ -20,3 +20,9 @@ pip install
 markdown-to-sqlite ../companies/*.md companies-on-blm.db companies
 datasette serve companies-on-blm.db
 ```
+
+# Generating a word cloud
+
+```bash
+python cloud.py
+```
