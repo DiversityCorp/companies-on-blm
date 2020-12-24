@@ -1,5 +1,5 @@
 import apsw
-from wordcloud import WordCloud
+from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 import json
 
@@ -10,6 +10,9 @@ company_statements = list(cur.execute("select blm_statements from companies wher
 
 word_cloud_text = []
 
+stopwords = set(STOPWORDS)
+stopwords.add("u")
+
 for blm_statements in company_statements:
   for statements in blm_statements:
       statement = json.loads(statements)
@@ -18,7 +21,7 @@ for blm_statements in company_statements:
           word_cloud_text.append(s["raw_text"])
 
 text = " ".join(word_cloud_text)
-wordcloud = WordCloud().generate(text)
+wordcloud = WordCloud(stopwords=stopwords).generate(text)
 plt.figure()
 plt.imshow(wordcloud, interpolation="bilinear")
 plt.axis("off")
