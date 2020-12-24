@@ -2,7 +2,7 @@
 fortune_rank: 23
 name: Kroger
 tags: ["fortune500"]
-imate: kroger.jpeg
+image: kroger.jpeg
 blm_statements:
   - url: https://twitter.com/kroger/status/1269043196753063937?s=20
     type: Tweet
