@@ -41,3 +41,13 @@ blm_statements:
 exec_team_url: https://blog.google/perspectives/
 diversity_inclusion_url: https://diversity.google/
 ---
+
+additional_resources:
+  - url: https://www.platformer.news/p/the-withering-email-that-got-an-ethical
+    display_name: The withering email that got an ethical AI researcher fired at Google.
+  - url: https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
+    display_name: We read the paper that forced Timnit Gebru out of Google. Here’s what it says.
+  - url: https://www.nbcnews.com/tech/tech-news/second-top-black-female-google-employee-says-she-was-ousted-n1252277
+    display_name: Second top Black female Google employee says she was recently ousted.
+  - url: https://outline.com/8emaNG
+    display_name: After a Twitter thread exposed the mistreatment of Black employees at Google, I ended my company's partnership to connect HBCU students with the tech giant. Here's why we decided to pull the plug.
