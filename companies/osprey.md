@@ -7,7 +7,7 @@ blm_statements:
     date_posted: 2020-06-02
     type: Instagram
     raw_text: >
-      deaths and injustices that permeate all facets of our society.
+      At our core, we are steadfast in our resolve to leave our world better than we found it. Because of that, we’re choosing not to stay silent on the events of this past week and our nation’s long history of systemic racism. We believe there is simply no place for hatred in our communities, in our outdoor spaces—anywhere in the world, period. We stand with the black community to condemn senseless deaths and injustices that permeate all facets of our society.
       —
       We realize sharing our beliefs is a small step, and we’re pushing ourselves to do better. Better starts with listening more and developing an evolving action plan.
       —
