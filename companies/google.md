@@ -40,7 +40,6 @@ blm_statements:
       As a company, and as individuals who came here to build helpful products for everyone, Google commits to translating the energy of this moment into lasting, meaningful change. Today we are announcing a set of concrete commitments to move that work forward: internally, to build sustainable equity for Google’s Black+ community, and externally, to make our products and programmes helpful in the moments that matter most to Black users.
 exec_team_url: https://blog.google/perspectives/
 diversity_inclusion_url: https://diversity.google/
-
 additional_resources:
   - url: https://www.platformer.news/p/the-withering-email-that-got-an-ethical
     display_name: The withering email that got an ethical AI researcher fired at Google.
