@@ -3,7 +3,6 @@ layout: layouts/resources.njk
 resources:
   - url: https://www.buzzfeednews.com/article/adeonibada/generic-brands-george-floyd-protest-statement
     title: Brands Have Been Speaking Out About Racism
-    summary: here's a short summary for the article
 
   - url: https://www.snewsnet.com/news/black-lives-matter-statements
     title: Black Lives Matter Statements from the industry
