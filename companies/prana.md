@@ -5,7 +5,7 @@ image: prana.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6etenBBR-
     date_posted: 2020-06-01
-    type: Tweet
+    type: Instagram
     raw_text: >
       Grief. Frustration. Anger. Confusion.
       Fear. Guilt. Exhaustion.
