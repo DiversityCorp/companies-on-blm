@@ -51,3 +51,4 @@ additional_resources:
     display_name: Second top Black female Google employee says she was recently ousted.
   - url: https://outline.com/8emaNG
     display_name: After a Twitter thread exposed the mistreatment of Black employees at Google, I ended my company's partnership to connect HBCU students with the tech giant. Here's why we decided to pull the plug.
+---
