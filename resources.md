@@ -3,8 +3,7 @@ layout: layouts/resources.njk
 resources:
   - url: https://www.buzzfeednews.com/article/adeonibada/generic-brands-george-floyd-protest-statement
     title: Brands Have Been Speaking Out About Racism
-    summary: Amid nationwide protests in response to the death of George Floyd, brands of all sizes and across various industries have been putting out public statements about the ongoing protests and calling for justice.
-
+    
   - url: https://www.snewsnet.com/news/black-lives-matter-statements
     title: Black Lives Matter Statements from the industry
     summary: The outdoor industry is not doing enough, survey shows"Anything. Everything. Something." In a recent SNEWS survey circulated around the outdoor industry, that was one participant's answer to the question, "What more would you like to see your company do in response to racial injustice?" It wasn't an isolated plea.
