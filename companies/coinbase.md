@@ -16,5 +16,5 @@ additional_resources:
   - url: https://www.wired.com/story/turmoil-black-lives-matter-political-speech-coinbase/
     display_name: The Turmoil Over ‘Black Lives Matter’ and Political Speech at Coinbase
   - url: https://www.nytimes.com/2020/11/27/technology/coinbase-cryptocurrency-black-employees.html
-    display_name: ‘Tokenized’: Inside Black Workers’ Struggles at the King of Crypto Start-Ups
+    display_name: "‘Tokenized’: Inside Black Workers’ Struggles at the King of Crypto Start-Ups"
 ---
