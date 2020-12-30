@@ -1,6 +1,6 @@
 ---
 name: Deloitte
-tags: ["finance"]
+tags: ["finance", "big4"]
 image: deloitte-2.png
 blm_statements:
   - url: https://www.linkedin.com/pulse/deloitte-stands-against-systemic-bias-racism-unequal-joseph-ucuzoglu/?trackingId=Kb2vlVFuP/XbRHV8dhizRA%3D%3D&linkId=89991952
