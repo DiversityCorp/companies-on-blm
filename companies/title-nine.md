@@ -1,7 +1,7 @@
 ---
 name: Title Nine
 tags: ["retail", "outdoors"]
-image: title-nine.png
+image: title-nine.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CBB53w3JiGv
     date_posted: 2020-06-04
