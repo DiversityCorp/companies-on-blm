@@ -1,6 +1,7 @@
 ---
 fortune_rank: number
 name: Company Name
+parent_company: Parent Company Name
 tags: ["fortune500", "sports", "tech", "realestate", "healthcare", "energy"]
 image: name-in-images-folder.png
 blm_statements:

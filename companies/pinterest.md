@@ -42,5 +42,7 @@ additional_resources:
   - url: https://www.cnet.com/news/former-pinterest-employees-say-they-faced-racial-discrimination-and-were-underpaid/
     display_name: Former Pinterest employees say they faced racial discrimination and were underpaid.
   - url: https://www.usatoday.com/story/money/2020/08/17/pinterest-adds-black-exec-its-boards-following-racism-allegations/3379478001/
-    display_name: Reeling from charges of racism and gender discrimination, Pinterest on Monday named a Black executive to its board of directors
+    display_name: Reeling from charges of racism and gender discrimination, Pinterest on Monday named a Black executive to its board of directors.
+  - url: https://www.npr.org/2020/06/23/881624553/pinterest-sounds-a-more-contrite-tone-after-black-former-employees-speak-out
+    display_name: After a week of deflecting criticism from two former Black employees, Pinterest sounds a more contrite tone.
 ---

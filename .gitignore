@@ -1,2 +1,6 @@
 _site
 node_modules
+.vscode
+db/venv/
+db/companies-on-blm.db
+db/__pycache__

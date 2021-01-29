@@ -1,7 +1,7 @@
 ---
 name: Vasque
 tags: ["sports", "retail"]
-image: vasque.png
+image: vasque.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA0TCcQl8a9/
     date_posted: 2020-05-30

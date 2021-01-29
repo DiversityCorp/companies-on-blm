@@ -3,7 +3,7 @@ layout: layouts/base.njk
 ---
 
 <div class="container">
-    <img src="{{ '/images/logo.png' | url }}" alt="">
+    <br/><br/>
     <h2>We hold companies accountable.</h2>
     <p>View responses to the Black Lives Matter Movement.</p>
     <div class="container">
@@ -13,10 +13,8 @@ layout: layouts/base.njk
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-sm-12">
-                {% set companylist = collections.companies %}
-                {% include "companylist.njk" %}
-            </div>
+            {% set companylist = collections.companies %}
+            {% include "companylist.njk" %}
         </div>
     </div>
 </div>

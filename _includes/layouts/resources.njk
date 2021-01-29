@@ -3,25 +3,26 @@ layout: layouts/base.njk
 ---
 
 <div class="container">
-    <img src="{{ '/images/logo.png' | url }}" alt="">
+    <br/><br/>
     <h2>Relevant resources</h2>
     <p>Below, we have a list of blogs, tweets, and other commentary about Black Lives Matter.</p>
     <br/>
 
-    
     {%for resource in resources%}
-        
-        <a href="{{ resource.url | url }}">
+
+        <a href="{{ resource.url | url }}" target="_blank">
             <div>
-                <h4 >
+                <h6>
                     {{resource.title}}
-                </h4>
+                </h6>
                 <p class="resource-summary">
-                    {{resource.summary}} 
-                </p> 
+                    {{resource.summary}}
+                </p>
+
+                <hr/>
             </div>
         </a>
-        
+
     {% endfor %}
     <br/>
 </div>

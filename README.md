@@ -2,10 +2,10 @@
 
 # Why are we here?
 
-We are focused on holding companies accountable.
+We are focused on holding corporations accountable.
 
-In response to the Black Lives Matter, many companies posted simple solidarity statements without committing to actual change.
-We want to hold companies accountable by highlighting the change (or lack of change) they have implemented in their teams, as well as the diversity of the leadership in their company.
+In response to the Black Lives Matter, many corporations posted simple solidarity statements without committing to actual change.
+We want to hold corporations accountable by highlighting the change (or lack of change) they have implemented in their teams, as well as the diversity of the leadership in their corporation.
 
 # How to get started
 
