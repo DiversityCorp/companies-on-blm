@@ -8,20 +8,20 @@ blm_statements:
     date_posted: 2020-05-29
     type: Tweet
     raw_text: >
-        We say enough.
+      We say enough.
  
-        Violent beatings and killings must end.
-        Racial profiling must end.
-        Mass incarceration must end.
-        Impunity must end.
-        Racism against black communities must end.
-        Suffering must end.
-        
-        Black Lives Matter.
-        
-        Staying silent is not an option.
+      Violent beatings and killings must end.
+      Racial profiling must end.
+      Mass incarceration must end.
+      Impunity must end.
+      Racism against black communities must end.
+      Suffering must end.        
 
-        Enough.
+      Black Lives Matter.
+        
+      Staying silent is not an option.
+
+      Enough.
 exec_team_url: https://craft.co/lush/executives
 additional_resources:
   - url: https://www.lushusa.com/stories/article-our-action-plan.html
