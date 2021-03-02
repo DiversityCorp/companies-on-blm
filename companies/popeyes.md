@@ -4,7 +4,7 @@ parent_company: Restaurant Brands International
 tags: ["food"]
 image: popeyes.png
 blm_statements:
-    - url: https://twitter.com/PopeyesChicken/status/1267879844517462020
+  - url: https://twitter.com/PopeyesChicken/status/1267879844517462020
     date_posted: 2020-06-02
     type: Tweet
     raw_text: >
