@@ -13,7 +13,7 @@ blm_statements:
       Mass incarceration must end.
       Impunity must end.
       Racism against black communities must end.
-      Suffering must end.        
+      Suffering must end.
       Black Lives Matter.
       Staying silent is not an option.
       Enough.
