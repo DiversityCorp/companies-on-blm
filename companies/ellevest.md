@@ -7,7 +7,7 @@ blm_statements:
     date_posted: 2020-05-29
     type: Tweet
     raw_text: >
-        Silence is a privilege. And yet, we have the power to make sure the world knows Ahmaud Arbery, Breonna Taylor, George Floyd, and the unthinkable number of Black lives lost mattered. We all have power to do something.
+      Silence is a privilege. And yet, we have the power to make sure the world knows Ahmaud Arbery, Breonna Taylor, George Floyd, and the unthinkable number of Black lives lost mattered. We all have power to do something.
   - url: https://twitter.com/Ellevest/status/1266435932149907456
     date_posted: 2020-05-29
     type: Tweet
