@@ -8,7 +8,7 @@ blm_statements:
     date_posted: 2020-06-02
     type: Tweet
     raw_text: >
-        We are nothing without Black lives. 
+        We are nothing without Black lives.
 
         There's no room for injustice. We commit to strengthening every facet of our culture and policies to foster an environment where equality for Black people is a priority. We'll use our platform to support this movement. #BlackLivesMatter
 exec_team_url: https://www.comparably.com/companies/popeyes-louisiana-kitchen/executive-team
