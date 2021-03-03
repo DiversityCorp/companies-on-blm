@@ -28,5 +28,3 @@ additional_resources:
   - url: https://www.lushusa.com/stories/article-being-black-in-covid-19.html
     display_name: Being Black in Covid-19
 ---
-
-test
