@@ -7,7 +7,8 @@ blm_statements:
   - url: https://twitter.com/TargetNews/status/1268924275597160450
     date_posted: 2020-06-05
     type: Tweet
-    raw_text: @Target stands with Black families, communities and team members, and we’re committed to using our size scale and resources to help heal and create lasting change. 
+    raw_text:  > 
+        @Target stands with Black families, communities and team members, and we’re committed to using our size scale and resources to help heal and create lasting change. 
   - url: https://corporate.target.com/article/2020/06/commitments-rebuilding-and-social-justice
     date_posted: 2020-06-05
     type: Blog
@@ -31,8 +32,6 @@ blm_statements:
         In addition to continuing support for longstanding partners like the National Urban League, we’ll provide in-kind donations and contributions to additional local nonprofits and national partnerships to create long-term change. In Minneapolis-St. Paul and the surrounding region, the Target Foundation will continue investing in nonprofits addressing systemic and structural barriers facing communities of color. The Foundation’s focuses include investments in Black- and people-of-color-owned businesses and entrepreneurs, along with efforts to promote equity in the areas of housing, asset-building and workforce development. By mid-June, grant applications will open to help Black- and people-of-color-owned small businesses rebuild.
 
         In the weeks and months ahead, our teams are committed to listening and learning from our communities and nonprofit partners to better understand how Target can support their longer-term needs. 
-
-
 exec_team_url: https://corporate.target.com/about/purpose-history/leadership
 diversity_inclusion_url: https://corporate.target.com/corporate-responsibility/diversity-inclusion
 ---
