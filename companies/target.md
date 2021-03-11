@@ -35,4 +35,4 @@ blm_statements:
 
 exec_team_url: https://corporate.target.com/about/purpose-history/leadership
 diversity_inclusion_url: https://corporate.target.com/corporate-responsibility/diversity-inclusion
-
+---
