@@ -7,9 +7,7 @@ blm_statements:
   - url: https://twitter.com/JNJNews/status/1267888915060592640
     date_posted: 2020-06-02
     type: Tweet
-    raw_text: At J&J, we believe racism in any form is unacceptable. Black Lives Matter.
-
-    Johnson & Johnson is committing $10 million to fight racism & injustice in America—a pledge that will span the next three years. Learn more from Alex Gorsky, Chairman & CEO.
+    raw_text: At J&J, we believe racism in any form is unacceptable. Black Lives Matter. Johnson & Johnson is committing $10 million to fight racism & injustice in America—a pledge that will span the next three years. Learn more from Alex Gorsky, Chairman & CEO.
   - url: https://www.jnj.com/latest-news/a-message-from-johnson-johnson-ceo-alex-gorsky-about-recent-events-in-the-united-states
     date_posted: 2020-06-02
     type: Blog
