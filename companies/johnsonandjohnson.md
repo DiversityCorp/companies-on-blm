@@ -1,6 +1,6 @@
 ---
 fortune_rank: 35
-name: Zillow Group
+name: J&J
 tags: ["fortune500", "pharmaceutical"]
 image: jnj.png
 blm_statements:
