@@ -12,16 +12,16 @@ blm_statements:
     date_posted: 2020-06-05
     type: Blog
     raw_text: >
-      In a recent note, CEO Brian Cornell shared the Target team’s commitment to stand against racism. We pledged to face anxiety, fear and sorrow with purpose, and formed an enterprise task force to determine how to help create solutions for the injustice Black families and people of color face every day. 
+      In a recent note, CEO Brian Cornell shared the Target team’s commitment to stand against racism. We pledged to face anxiety, fear and sorrow with purpose, and formed an enterprise task force to determine how to help create solutions for the injustice Black families and people of color face every day.
 
-      Today, our next steps include announcing a $10 million commitment and ongoing resources to advance social justice and support rebuilding and recovery efforts in local communities. 
+      Today, our next steps include announcing a $10 million commitment and ongoing resources to advance social justice and support rebuilding and recovery efforts in local communities.
 
       “Target stands with Black families, communities and team members. As we face an inflection point in Minneapolis and across the country, we’re listening to our team, guests and communities, committed to using our size, scale and resources to help heal and create lasting change,” says Brian Cornell, chairman and CEO, Target.
 
       Initial efforts include:
 
-      A $10 million investment from Target and the Target Foundation to support long-standing partners such as the National Urban League and the African American Leadership Forum. We will also add new partners in the Minneapolis-St. Paul area and across the country. 
-      10,000 hours of pro-bono consulting services for Black- and people-of-color-owned small businesses in the Twin Cities, helping with rebuilding efforts. 
+      A $10 million investment from Target and the Target Foundation to support long-standing partners such as the National Urban League and the African American Leadership Forum. We will also add new partners in the Minneapolis-St. Paul area and across the country.
+      10,000 hours of pro-bono consulting services for Black- and people-of-color-owned small businesses in the Twin Cities, helping with rebuilding efforts.
       Continuing to provide essentials such as baby formula, diapers, medicine and more to communities most in need.
       Target Circle, our loyalty program, will offer guests the option to direct Target funds to local nonprofits and include organizations supporting social justice.
       Helping our hometown and investing in rebuilding efforts and social justice
