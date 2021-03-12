@@ -1,7 +1,7 @@
 ---
 fortune_rank: 35
-name: Johnson & Johnson
-tags: ["fortune500", "pharmaceutical", "consumer packaged goods"]
+name: Zillow Group
+tags: ["fortune500", "pharmaceutical"]
 image: jnj.png
 blm_statements:
   - url: https://twitter.com/JNJNews/status/1267888915060592640
