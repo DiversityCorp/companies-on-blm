@@ -24,6 +24,7 @@ blm_statements:
       10,000 hours of pro-bono consulting services for Black- and people-of-color-owned small businesses in the Twin Cities, helping with rebuilding efforts.
       Continuing to provide essentials such as baby formula, diapers, medicine and more to communities most in need.
       Target Circle, our loyalty program, will offer guests the option to direct Target funds to local nonprofits and include organizations supporting social justice.
+      
       Helping our hometown and investing in rebuilding efforts and social justice
 
       Work is already underway in our hometown of Minneapolis-St. Paul. Team members have volunteered hundreds of hours toward hands-on cleanup efforts in heavily impacted neighborhoods, building on our company’s history of volunteering 1 million hours each year. Our partnerships with local nonprofits like Second Harvest Heartland have assisted in providing truckloads of essentials like baby formula, medicine and more in recent weeks.
