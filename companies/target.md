@@ -20,7 +20,7 @@ blm_statements:
 
       Initial efforts include:
 
-      A $10 million investment from Target and the Target Foundation to support long-standing partners such as the National Urban League and the African American Leadership Forum. We will also add new partners in the Minneapolis-St. Paul area and across the country. 
+      A $10 million investment from Target and the Target Foundation to support long-standing partners such as the National Urban League and the African American Leadership Forum. We will also add new partners in the Minneapolis-St. Paul area and across the country.
       10,000 hours of pro-bono consulting services for Black- and people-of-color-owned small businesses in the Twin Cities, helping with rebuilding efforts. 
       Continuing to provide essentials such as baby formula, diapers, medicine and more to communities most in need.
       Target Circle, our loyalty program, will offer guests the option to direct Target funds to local nonprofits and include organizations supporting social justice.
