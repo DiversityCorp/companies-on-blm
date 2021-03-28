@@ -2,7 +2,7 @@
 fortune_rank: 46
 name: Facebook
 tags: ["fortune500", "tech"]
-blm_image: facebook.png
+blm_image: facebook.jpeg
 blm_statements:
   - url: https://twitter.com/amazon/status/1267140211861073927/photo/1
     date_posted: 2020-06-05
