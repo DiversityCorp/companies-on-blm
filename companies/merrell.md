@@ -1,7 +1,7 @@
 ---
 name: Merrell
 tags: ["outdoors"]
-image: merrell.jpg
+blm_image: merrell.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA0kz79l0OE/
     date_posted: 2020-05-30

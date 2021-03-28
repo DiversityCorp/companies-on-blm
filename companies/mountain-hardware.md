@@ -1,7 +1,7 @@
 ---
 name: Mountain Hardware
 tags: ["outdoors"]
-image: mountain-hardware.jpg
+blm_image: mountain-hardware.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA8bgXyn6Cb/
     date_posted: 2020-06-02

@@ -1,6 +1,6 @@
 ---
 name: American Alpine Club
-image: american-alpine-club.png
+blm_image: american-alpine-club.png
 blm_statements:
   - url: https://twitter.com/americanalpine/status/1267946389482266625
     date_posted: 2020-06-02

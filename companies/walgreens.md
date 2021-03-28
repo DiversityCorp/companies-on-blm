@@ -3,7 +3,7 @@ fortune_rank: 19
 name: Walgreens
 parent_company: Walgreens Boots Alliance
 tags: ["fortune500", "healthcare"]
-image: walgreens.png
+blm_image: walgreens.png
 blm_statements:
   - url: https://www.walgreensbootsalliance.com/news-media/press-releases/2020/message-stefano-pessina-our-customers-team-members-and-communities
     date_posted: 2020-05-31

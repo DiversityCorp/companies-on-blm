@@ -1,7 +1,7 @@
 ---
 name: Climbing Wall Association
 tags: ["outdoors"]
-image: climbing-wall-association.jpg
+blm_image: climbing-wall-association.jpg
 blm_statements:
   - url: https://www.facebook.com/ClimbingWallAssociation/photos/a.10151518851588179/10158583559713179/?type=3
     date_posted: 2020-06-01

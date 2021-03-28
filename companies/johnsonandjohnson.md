@@ -2,7 +2,7 @@
 fortune_rank: 35
 name: J&J
 tags: ["fortune500", "pharmaceutical"]
-image: jnj.png
+blm_image: jnj.png
 blm_statements:
   - url: https://twitter.com/JNJNews/status/1267888915060592640
     date_posted: 2020-06-02

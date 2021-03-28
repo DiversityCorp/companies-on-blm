@@ -1,7 +1,7 @@
 ---
 name: Billboard
 tags: ["music", "entertainment", "marketing"]
-image: hand-mic-bb10-2020-market-billboard.jpg
+blm_image: hand-mic-bb10-2020-market-billboard.jpg
 blm_statements:
   - url: https://twitter.com/billboard/status/1267176564535541760?s=20
     date_posted: 2020-05-31

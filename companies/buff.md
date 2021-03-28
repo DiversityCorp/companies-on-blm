@@ -1,7 +1,7 @@
 ---
 name: BUFF
 tags: ["outdoors", "retail"]
-image: buff.jpg
+blm_image: buff.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA_Uy9onSNr/
     date_posted: 2020-06-03

@@ -1,7 +1,7 @@
 ---
 name: Tension Climbing
 tags: ["outdoors"]
-image: tension-climbing.jpg
+blm_image: tension-climbing.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA5pPbPjJWA/
     date_posted: 2020-06-01

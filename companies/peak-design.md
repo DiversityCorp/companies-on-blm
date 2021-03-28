@@ -1,7 +1,7 @@
 ---
 name: Peak Design
 tags: ["outdoors"]
-image: peak-design.jpg
+blm_image: peak-design.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CAyTHVeDQxF/
     date_posted: 2020-05-29

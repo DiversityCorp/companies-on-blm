@@ -1,6 +1,6 @@
 ---
 name: Ben & Jerry's
-image: ben-jerrys.png
+blm_image: ben-jerrys.png
 blm_statements:
   - url: https://twitter.com/benandjerrys/status/1267875868673794048?s=20
     date_posted: 2020-06-02

@@ -2,7 +2,7 @@
 fortune_rank: 29
 name: Anthem
 tags: ["fortune500"]
-image: anthem.jpeg
+blm_image: anthem.jpeg
 blm_statements:
   - url: https://twitter.com/AnthemInc/status/1267470605835800577?s=20
     type: Tweet

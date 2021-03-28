@@ -2,7 +2,7 @@
 fortune_rank: 30
 name: Wells Fargo
 tags: ["fortune500", "finance"]
-image: wells-fargo.jpeg
+blm_image: wells-fargo.jpeg
 blm_statements:
   - url: https://twitter.com/WellsFargo/status/1267849062713372676?s=20
     type: Tweet

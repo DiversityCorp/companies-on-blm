@@ -2,7 +2,7 @@
 name: Condé Nast
 parent_company: Advance Publications
 tags: ["Entertainment", "Media"]
-image: conde-nast.png
+blm_image: conde-nast.png
 blm_statements:
   - url: https://www.condenast.com/news/where-we-go-from-here
     date_posted: 2020-06-02

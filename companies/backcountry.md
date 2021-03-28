@@ -1,7 +1,7 @@
 ---
 name: Backcountry
 tags: ["outdoors", "retail"]
-image: backcountry.png
+blm_image: backcountry.png
 blm_statements:
   - url: https://www.facebook.com/ColumbiaSportswear/photos/a.144029504191/10158197007229192/?type=3
     date_posted: 2020-05-31

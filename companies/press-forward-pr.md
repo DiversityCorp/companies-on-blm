@@ -1,7 +1,7 @@
 ---
 name: Press Forward PR
 tags: ["sports"]
-image: press-forward-pr.jpg
+blm_image: press-forward-pr.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6CAnxjsku/
     date_posted: 2020-06-01

@@ -2,7 +2,7 @@
 name: Cash App
 parent_company: Square
 tags: ["tech", "finance"]
-image: cashapp2.png
+blm_image: cashapp2.png
 blm_statements:
   - url: https://twitter.com/CashApp/status/1267248390846451712?s=20
     date_posted: 2020-05-31

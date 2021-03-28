@@ -2,7 +2,7 @@
 fortune_rank: 13
 name: Chevron
 tags: ["fortune500", "energy"]
-image: chevron.jpeg
+blm_image: chevron.jpeg
 blm_statements:
   - url: https://twitter.com/Chevron/status/1268984687927705600?s=20
     date_posted: 2020-06-05

@@ -1,7 +1,7 @@
 ---
 name: Ibex
 tags: ["outdoors"]
-image: ibex.jpg
+blm_image: ibex.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA8lv5Ol2In/
     date_posted: 2020-06-02

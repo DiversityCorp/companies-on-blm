@@ -2,7 +2,7 @@
 fortune_rank: 190
 name: Salesforce
 tags: ["fortune500", "tech"]
-image: salesforce.jpeg
+blm_image: salesforce.jpeg
 blm_statements:
   - url: https://twitter.com/salesforce/status/1266066647275757568?s=20
     date_posted: 2020-05-28

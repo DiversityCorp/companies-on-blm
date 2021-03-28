@@ -2,7 +2,7 @@
 fortune_rank: 550
 name: Electronic Arts
 tags: ["sports video games"]
-image: ea-sports.png
+blm_image: ea-sports.png
 blm_statements:
   - url: https://www.ea.com/news/ea-actions-against-racial-injustice
     date_posted: 2020-06-03

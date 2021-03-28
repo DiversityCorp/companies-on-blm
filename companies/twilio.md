@@ -1,7 +1,7 @@
 ---
 name: Twilio
 tags: ["fortune500", "tech"]
-image: twilio.png
+blm_image: twilio.png
 blm_statements:
   - url: https://twitter.com/twilio/status/1266444750065934337
     date_posted: 2020-05-29

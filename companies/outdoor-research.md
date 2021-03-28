@@ -1,7 +1,7 @@
 ---
 name: Outdoor Research
 tags: ["outdoors"]
-image: outdoor-research.png
+blm_image: outdoor-research.png
 blm_statements:
   - url: https://www.instagram.com/p/CA5a87zhP02/
     date_posted: 2020-06-01

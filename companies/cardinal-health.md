@@ -2,7 +2,7 @@
 fortune_rank: 16
 name: Cardinal Health
 tags: ["fortune500", "healthcare"]
-image: cardinal-health.jpeg
+blm_image: cardinal-health.jpeg
 blm_statements:
   - url: https://twitter.com/cardinalhealth/status/1266512772000559105?s=20
     date_posted: 2020-05-29

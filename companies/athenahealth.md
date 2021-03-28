@@ -1,7 +1,7 @@
 ---
 name: athenahealth
 tags: ["tech", "healthcare"]
-image: athenahealth.jpeg
+blm_image: athenahealth.jpeg
 blm_statements:
   - url: https://twitter.com/athenahealth/status/1273002425880903681
     date_posted: 2020-06-16

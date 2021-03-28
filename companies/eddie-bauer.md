@@ -1,7 +1,7 @@
 ---
 name: Eddie Bauer
 tags: ["outdoors"]
-image: eddie-bauer.jpg
+blm_image: eddie-bauer.jpg
 blm_statements:
   - url: https://www.facebook.com/EddieBauer/photos/a.393199553513/10159251308713514/?type=3
     date_posted: 2020-05-31

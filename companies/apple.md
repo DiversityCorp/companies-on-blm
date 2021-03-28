@@ -2,7 +2,7 @@
 fortune_rank: 4
 name: Apple
 tags: ["fortune500", "tech"]
-image: apple-music.jpeg
+blm_image: apple-music.jpeg
 blm_statements:
   - url: https://twitter.com/tim_cook/status/1266201296391901186?s=20
     type: Tweet

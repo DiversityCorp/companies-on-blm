@@ -2,7 +2,7 @@
 fortune_rank: 20
 name: Verizon
 tags: ["fortune500", "tech", "communications", "media"]
-image: verizon.jpeg
+blm_image: verizon.jpeg
 blm_statements:
   - url: https://twitter.com/verizonmedia/status/1267610903110987778?lang=en
     date_posted: 2020-06-01

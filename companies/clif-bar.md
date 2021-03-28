@@ -1,7 +1,7 @@
 ---
 name: Clif Bar
 tags: ["outdoors", "food"]
-image: clif-bar.jpg
+blm_image: clif-bar.jpg
 blm_statements:
   - url: https://www.facebook.com/clifbar/photos/a.409762587096/10157044349717097/?type=3
     date_posted: 2020-06-01

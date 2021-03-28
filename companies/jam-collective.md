@@ -1,7 +1,7 @@
 ---
 name: Jam Collective
 tags: ["outdoors"]
-image: jam-collective.jpg
+blm_image: jam-collective.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6Sg0XnWj7
     date_posted: 2020-06-01

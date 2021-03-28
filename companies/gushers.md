@@ -3,7 +3,7 @@ fortune_rank: 192
 name: Gushers
 parent_company: General Mills
 tags: ["food"]
-image: gushers.jpeg
+blm_image: gushers.jpeg
 blm_statements:
   - url: https://twitter.com/gushers/status/1269110304086114304?s=20
     date_posted: 2020-06-05

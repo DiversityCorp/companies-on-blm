@@ -1,7 +1,7 @@
 ---
 name: Access Fund
 tags: ["sports"]
-image: access-fund.jpg
+blm_image: access-fund.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA5qXOulB1D/
     date_posted: 2020-06-01

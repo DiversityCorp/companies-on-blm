@@ -1,7 +1,7 @@
 ---
 name: HOKA ONE ONE
 tags: ["outdoors"]
-image: hoka-one-one.jpg
+blm_image: hoka-one-one.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA0guZVlLCS/
     date_posted: 2020-05-30

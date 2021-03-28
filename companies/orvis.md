@@ -1,7 +1,7 @@
 ---
 name: Orvis
 tags: ["outdoors"]
-image: orvis.jpg
+blm_image: orvis.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA4EGwppEuc/
     date_posted: 2020-05-31

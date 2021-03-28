@@ -1,7 +1,7 @@
 ---
 name: Ellevest
 tags: ["finance"]
-image: ellevest.png
+blm_image: ellevest.png
 blm_statements:
   - url: https://twitter.com/Ellevest/status/1266435834716225536
     date_posted: 2020-05-29

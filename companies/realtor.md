@@ -1,7 +1,7 @@
 ---
 name: realtor.com
 tags: ["realestate"]
-image: realtor.jpeg
+blm_image: realtor.jpeg
 blm_statements:
   - url: https://www.realtor.com/homemade/standing-against-racial-injustice/
     date_posted: 2020-06-02

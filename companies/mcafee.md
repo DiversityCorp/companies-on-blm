@@ -2,7 +2,7 @@
 fortune_rank: 857
 name: McAfee
 tags: ["tech"]
-image: mcafee.png
+blm_image: mcafee.png
 blm_statements:
   - url: https://twitter.com/McAfee/status/1267542838314762241
     date_posted: 2020-06-01

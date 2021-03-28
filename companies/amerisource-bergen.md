@@ -2,7 +2,7 @@
 fortune_rank: 10
 name: AmerisourceBergen
 tags: ["fortune500", "healthcare"]
-image: amerisource-bergen.png
+blm_image: amerisource-bergen.png
 blm_statements:
   - url: https://twitter.com/Healthcare_ABC/status/1268184575999643648?s=20
     date_posted: 2020-06-03

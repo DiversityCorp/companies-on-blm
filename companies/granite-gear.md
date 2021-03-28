@@ -1,7 +1,7 @@
 ---
 name: Granite Gear
 tags: ["outdoors"]
-image: granite-gear.jpg
+blm_image: granite-gear.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA5iTnHlMQE/
     date_posted: 2020-06-01

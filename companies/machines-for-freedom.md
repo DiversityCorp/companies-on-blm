@@ -1,7 +1,7 @@
 ---
 name: Machines for Freedom
 tags: ["outdoors"]
-image: machines-for-freedom.jpg
+blm_image: machines-for-freedom.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA2_iAwg1vi
     date_posted: 2020-05-31

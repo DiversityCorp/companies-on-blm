@@ -1,9 +1,9 @@
 {%- for company in companylist | sortByPostedDate -%}
-  {% if 'image' in company.data %}
+  {% if 'blm_image' in company.data %}
     <div class="col-md-4">
+      <h4>{{ company.data.name }}</h4>
       <a href="{{ company.url | url }}">
-        <img style="width: 100%;" src="{{ '/images/' + company.data.image | url }}">
-      </a>
-    </div>
-  {% endif %}
-{%- endfor -%}
+        <img style="width: 100%;" src="{{ '/images/blm/' + company.data.blm_image | url }}"></a>
+      </div>
+    {% endif %}
+  {%- endfor -%}

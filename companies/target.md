@@ -2,7 +2,7 @@
 fortune_rank: 37
 name: Target
 tags: ["fortune500", "retail"]
-image: target.png
+blm_image: target.png
 blm_statements:
   - url: https://twitter.com/TargetNews/status/1268924275597160450
     date_posted: 2020-06-05

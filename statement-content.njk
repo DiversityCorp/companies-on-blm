@@ -24,4 +24,24 @@ eleventyComputed:
       </p>
     {% endif %}
   {% endfor %}
+  {% for statement in company.data.insurrection_statements %}
+    {% if statement.raw_text %}
+      <h2>{{statement.type}}
+        posted
+        {{statement.date_posted | dateReadable }}</h2>
+      <p class="statement">
+        {{statement.raw_text}}
+      </p>
+    {% endif %}
+  {% endfor %}
+  {% for statement in company.data.stop_asian_hate_statements %}
+    {% if statement.raw_text %}
+      <h2>{{statement.type}}
+        posted
+        {{statement.date_posted | dateReadable }}</h2>
+      <p class="statement">
+        {{statement.raw_text}}
+      </p>
+    {% endif %}
+  {% endfor %}
 </div>

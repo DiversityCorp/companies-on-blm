@@ -1,8 +1,8 @@
 ---
 name: Patagonia
 parent_company: Patagonia Works
-tags: ['outdoors']
-image: patagonia.png
+tags: ["outdoors"]
+blm_image: patagonia.png
 blm_statements:
   - url: https://twitter.com/patagonia/status/1267241207283015680
     date_posted: 2020-05-31

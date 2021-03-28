@@ -2,7 +2,7 @@
 fortune_rank: 62
 name: Caterpillar
 tags: ["fortune500", "construction", "machinery", "tech", "insurance", "energy"]
-image: caterpillar.jpg
+blm_image: caterpillar.jpg
 blm_statements:
   - url: https://www.caterpillar.com/en/company/the-fight-against-racism-and-injustice.html
     date_posted: 2020-06-02

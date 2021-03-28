@@ -1,7 +1,7 @@
 ---
 name: Okta
 tags: ["tech"]
-image: okta.png
+blm_image: okta.png
 blm_statements:
   - url: https://twitter.com/toddmckinnon/status/1266509537827188737
     date_posted: 2020-05-29
