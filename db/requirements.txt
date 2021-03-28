@@ -31,7 +31,7 @@ pyparsing==2.4.7
 python-baseconv==1.2.2
 python-dateutil==2.8.1
 python-multipart==0.0.5
-PyYAML==5.3.1
+PyYAML==5.4
 rfc3986==1.4.0
 six==1.15.0
 sniffio==1.2.0
