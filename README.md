@@ -1,4 +1,4 @@
-<img src="images/logo.png" />
+<img src="images/favicon.png" />
 
 # Why are we here?
 
