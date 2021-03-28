@@ -5,7 +5,7 @@ tags: ["food"]
 image: popeyes.png
 blm_statements:
   - url: https://twitter.com/PopeyesChicken/status/1267879844517462020
-  date_posted: 2020-06-02
+    date_posted: 2020-06-02
     type: Tweet
     raw_text: >
         We are nothing without Black lives.
