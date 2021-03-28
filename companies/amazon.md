@@ -15,6 +15,13 @@ blm_statements:
     type: Tweet
     raw_text: >
       Amazon stands in solidarity with the Black community — we remain steadfast in our support for our employees, customers, partners, and the communities where they live and work. And we stand in support of organizations that are making a difference.
+stop_asian_hate_image: amazon.png
+stop_asian_hate_statements:
+  - url: https://twitter.com/amazon/status/1372302677057662980
+    date_posted: 2021-03-17
+    type: Tweet
+    raw_text: >
+      At Amazon, we stand with the Asian American and Pacific Islander communities. We are committed to helping build a country and a world where everyone can live with dignity and free from fear.
 exec_team_url: https://ir.aboutamazon.com/officers-and-directors/default.aspx
 diversity_inclusion_url: https://www.aboutamazon.com/working-at-amazon/diversity-and-inclusion/our-workforce-data
 ice_contract_url: https://www.technologyreview.com/2018/10/22/139639/amazon-is-the-invisible-backbone-behind-ices-immigration-crackdown/
