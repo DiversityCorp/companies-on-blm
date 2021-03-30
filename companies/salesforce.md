@@ -13,4 +13,9 @@ blm_statements:
     type: Video
 exec_team_url: https://www.salesforce.com/company/leadership/
 diversity_inclusion_url: https://www.salesforce.com/company/equality/
+additional_resources:
+  - url: https://www.protocol.com/enterprise/salesforces-benioff-diversity-inclusion-woes
+    display_name: Salesforce’s equality struggles burst into the public
+  - url: https://www.salesforce.com/news/stories/the-role-of-philanthropy-in-advancing-racial-equality-and-justice-in-2021/
+    display_name: The Role of Philanthropy in Advancing Racial Equality and Justice in 2021 and Beyond
 ---
