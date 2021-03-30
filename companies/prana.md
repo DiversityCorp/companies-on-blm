@@ -1,7 +1,7 @@
 ---
 name: prAna
 tags: ["outdoors", "retail"]
-image: prana.jpg
+blm_image: prana.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6etenBBR-
     date_posted: 2020-06-01

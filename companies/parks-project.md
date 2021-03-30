@@ -1,7 +1,7 @@
 ---
 name: Parks Project
 tags: ["outdoors"]
-image: parks-project.jpg
+blm_image: parks-project.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA3FaqjhKTD/
     date_posted: 2020-05-31

@@ -1,7 +1,7 @@
 ---
 name: VMware
 tags: ["tech"]
-image: vmware.jpeg
+blm_image: vmware.jpeg
 blm_statements:
   - url: https://twitter.com/vmwarenews/status/1267629184097988608
     type: Tweet

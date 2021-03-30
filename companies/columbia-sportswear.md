@@ -1,7 +1,7 @@
 ---
 name: Columbia Sportswear
 tags: ["outdoors", "retail"]
-image: columbia-sportswear.jpg
+blm_image: columbia-sportswear.jpg
 blm_statements:
   - url: https://www.facebook.com/ColumbiaSportswear/photos/a.144029504191/10158197007229192/?type=3
     date_posted: 2020-05-31

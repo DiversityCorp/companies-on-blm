@@ -1,7 +1,7 @@
 ---
 name: Tracksmith
 tags: ["outdoors", "retail", "sports"]
-image: tracksmith.jpg
+blm_image: tracksmith.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA3NWZPDsaJ/
     date_posted: 2020-05-31

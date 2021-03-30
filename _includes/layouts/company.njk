@@ -7,8 +7,8 @@ layout: layouts/base.njk
 
   <div class="row m-4">
     <div class="col-sm-6">
-      {%- if image -%}
-        <img class="mx-auto img-fluid float-right" style="width: 500px;" src="{{ '/images/' + image | url }}">
+      {%- if blm_image -%}
+        <img class="mx-auto img-fluid float-right" style="width: 500px;" src="{{ '/images/blm/' + blm_image | url }}">
       {%- endif -%}
     </div>
     <div class="col-sm-6">
@@ -60,6 +60,26 @@ layout: layouts/base.njk
           </div>
         {%- endfor -%}
       {%- endif -%}
+    </div>
+  </div>
+
+  <div class="row m-4">
+    <div class="col-sm-6">
+      {%- if stop_asian_hate_image -%}
+        <img class="mx-auto img-fluid float-right" style="width: 500px;" src="{{ '/images/stop_asian_hate/' + stop_asian_hate_image | url }}">
+      {%- endif -%}
+    </div>
+    <div class="col-sm-6">
+      {%- for statement in stop_asian_hate_statements -%}
+        <div>
+          <a href="{{statement.url | url}}">
+            ✊ 
+            {{statement.type}}
+            posted
+            {{statement.date_posted | dateReadable }}
+          </a>
+        </div>
+      {%- endfor -%}
     </div>
   </div>
 </container>

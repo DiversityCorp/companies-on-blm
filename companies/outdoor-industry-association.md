@@ -1,7 +1,7 @@
 ---
 name: Outdoor Industry Association
 tags: ["outdoors"]
-image: outdoor-industry-association.jpg
+blm_image: outdoor-industry-association.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA2r_i4nAvP/
     date_posted: 2020-05-31

@@ -1,7 +1,7 @@
 ---
 name: Pactimo
 tags: ["outdoors"]
-image: pactimo.jpg
+blm_image: pactimo.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA858HNl4sh/
     date_posted: 2020-06-02

@@ -1,7 +1,7 @@
 ---
 name: Thousand
 tags: ["outdoors", "retail"]
-image: thousand.jpg
+blm_image: thousand.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6kB97BKlI/
     date_posted: 2020-06-01

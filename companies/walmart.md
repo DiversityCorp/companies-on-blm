@@ -2,7 +2,7 @@
 fortune_rank: 1
 name: Walmart
 tags: ["fortune500"]
-image: walmart.png
+blm_image: walmart.png
 blm_statements:
   - url: https://twitter.com/Walmart/status/1269054779923234816?s=20
     type: Tweet

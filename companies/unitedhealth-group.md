@@ -2,7 +2,7 @@
 fortune_rank: 7
 name: UnitedHealth Group
 tags: ["fortune500", "healthcare"]
-image: unitedhealth-group.jpeg
+blm_image: unitedhealth-group.jpeg
 blm_statements:
   - url: https://twitter.com/UnitedHealthGrp/status/1267794235601928193?s=20
     date_posted: 2020-06-02

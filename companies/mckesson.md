@@ -2,7 +2,7 @@
 fortune_rank: 8
 name: McKesson
 tags: ["fortune500", "healthcare"]
-image: mckesson.jpeg
+blm_image: mckesson.jpeg
 blm_statements:
   - url: https://twitter.com/McKesson/status/1267546491494838277?s=20
     type: Tweet

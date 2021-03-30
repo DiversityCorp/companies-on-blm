@@ -1,7 +1,7 @@
 ---
 name: Outside PR
 tags: ["sports"]
-image: outside-pr.jpg
+blm_image: outside-pr.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6K5rrnzyZ/
     date_posted: 2020-06-01

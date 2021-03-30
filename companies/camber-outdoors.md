@@ -1,7 +1,7 @@
 ---
 name: Camber Outdoors
 tags: ["outdoors"]
-image: camber-outdoors.jpg
+blm_image: camber-outdoors.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CAtT8uUjGaO/
     date_posted: 2020-05-27

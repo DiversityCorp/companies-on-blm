@@ -1,6 +1,6 @@
 ---
 name: American Hiking Society
-image: american-hiking-society.png
+blm_image: american-hiking-society.png
 blm_statements:
   - url: https://www.instagram.com/p/CA0ggXWpbV-/
     date_posted: 2020-05-30

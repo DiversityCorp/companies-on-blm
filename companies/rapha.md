@@ -1,7 +1,7 @@
 ---
 name: Rapha
 tags: ["sports"]
-image: rapha.jpg
+blm_image: rapha.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6DCVnpNAg/
     date_posted: 2020-06-01

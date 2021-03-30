@@ -1,7 +1,7 @@
 ---
 name: Square
 tags: ["fortune500", "tech"]
-image: square.jpeg
+blm_image: square.jpeg
 blm_statements:
   - url: https://twitter.com/Square/status/1266857855187136525
     date_posted: 2020-05-30

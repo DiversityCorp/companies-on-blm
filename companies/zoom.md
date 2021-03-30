@@ -1,7 +1,7 @@
 ---
 fortune_rank:
 name: Zoom Video Communications, Inc.
-image: zoom.jpeg
+blm_image: zoom.jpeg
 blm_statements:
   - url: https://twitter.com/zoom_us/status/1266877451646283776
     date_posted: 2020-05-30

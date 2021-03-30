@@ -1,7 +1,7 @@
 ---
 name: PlayStation
 tags: ["gaming"]
-image: playstation.jpeg
+blm_image: playstation.jpeg
 blm_statements:
   - url: https://twitter.com/PlayStation/status/1267468949865639936
     date_posted: 2020-06-01

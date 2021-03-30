@@ -1,7 +1,7 @@
 ---
 name: Arc'teryx
 tags: ["sports"]
-image: arcteryx.jpg
+blm_image: arcteryx.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA5v5wYJsb0/
     date_posted: 2020-06-01
@@ -19,4 +19,3 @@ additional_resources:
   - url: https://newsroom.arcteryx.com/arcteryx-recognized-as-one-best-workplaces-in-british-columbia.htm
     display_name: Arc'teryx Recognized as One of The Best Workplaces in British Columbia
 ---
-

@@ -1,7 +1,7 @@
 ---
 name: Moosejaw
 tags: ["outdoors"]
-image: moosejaw.jpg
+blm_image: moosejaw.jpg
 blm_statements:
   - url: https://www.facebook.com/moosejaw/photos/a.247264431438/10157318082436439
     date_posted: 2020-06-01

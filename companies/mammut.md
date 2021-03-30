@@ -1,7 +1,7 @@
 ---
 name: Mammut
 tags: ["outdoors", "retail"]
-image: mammut.jpg
+blm_image: mammut.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6PGx6hNiQ
     date_posted: 2020-06-01

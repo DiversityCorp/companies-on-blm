@@ -2,7 +2,7 @@
 fortune_rank: 13
 name: Cigna
 tags: ["fortune500", "healthcare"]
-image: cigna.jpeg
+blm_image: cigna.jpeg
 blm_statements:
   - url: https://twitter.com/Cigna/status/1268646319029137415?s=20
     date_posted: 2020-06-04

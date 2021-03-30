@@ -1,7 +1,7 @@
 ---
 name: Riot Games
 tags: ["gaming"]
-image: riot-games.jpeg
+blm_image: riot-games.jpeg
 blm_statements:
   - url: https://twitter.com/riotgames/status/1267143804890513408?s=20
     date_posted: 2020-05-31

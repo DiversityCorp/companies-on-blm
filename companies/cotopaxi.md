@@ -1,7 +1,7 @@
 ---
 name: Cotopaxi
 tags: ["outdoors", "retail"]
-image: cotopaxi.jpg
+blm_image: cotopaxi.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA6OI8Vg4Sk/
     date_posted: 2020-06-01

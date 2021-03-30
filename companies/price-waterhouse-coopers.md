@@ -1,7 +1,7 @@
 ---
 name: PricewaterhouseCoopers
 tags: ["finance", "big4"]
-image: pwc.png
+blm_image: pwc.png
 blm_statements:
   - url: https://twitter.com/PwCUS/status/1267842009848520706?s=20
     date_posted: 2020-06-02

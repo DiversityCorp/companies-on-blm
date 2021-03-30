@@ -1,7 +1,7 @@
 ---
 name: Organic Climbing
 tags: ["outdoors"]
-image: organic-climbing.jpg
+blm_image: organic-climbing.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA4K_ZNnfjb/
     date_posted: 2020-05-31

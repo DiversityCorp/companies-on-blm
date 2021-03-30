@@ -2,7 +2,7 @@
 fortune_rank: 9
 name: AT&T
 tags: ["fortune500"]
-image: att.jpeg
+blm_image: att.jpeg
 blm_statements:
   - url: https://twitter.com/ATT/status/1267195460143513606?s=20
     date_posted: 2020-05-31

@@ -1,7 +1,7 @@
 ---
 name: Velocio
 tags: ["sports", "retail", "outdoors"]
-image: velocio.jpg
+blm_image: velocio.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA3xLDsjaBS/
     date_posted: 2020-05-31

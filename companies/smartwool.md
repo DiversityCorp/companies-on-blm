@@ -2,7 +2,7 @@
 fortune_rank: 233
 name: Smartwool
 tags: ["outdoors"]
-image: smartwool.jpg
+blm_image: smartwool.jpg
 blm_statements:
   - url: https://www.facebook.com/Smartwool/photos/a.378200988613/10158142544098614
     date_posted: 2020-05-31

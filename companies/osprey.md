@@ -1,7 +1,7 @@
 ---
 name: Osprey
 tags: ["outdoors", "retail"]
-image: osprey.jpg
+blm_image: osprey.jpg
 blm_statements:
   - url: https://www.instagram.com/p/CA8HlILhkZI/
     date_posted: 2020-06-02

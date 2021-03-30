@@ -1,7 +1,7 @@
 ---
 name: USA Softball
 tags: ["sports"]
-image: usa-softball.png
+blm_image: usa-softball.png
 blm_statements:
   - url: https://twitter.com/USASoftball/status/1267911166271066116/photo/1
     date_posted: 2020-06-02

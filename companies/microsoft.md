@@ -2,7 +2,7 @@
 fortune_rank: 21
 name: Microsoft
 tags: ["fortune500", "tech"]
-image: microsoft.jpg
+blm_image: microsoft.jpg
 blm_statements:
   - url: https://blogs.microsoft.com/blog/2020/06/05/change-in-ourselves-helps-drive-change-in-the-world/
     date_posted: 2020-06-05

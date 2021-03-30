@@ -2,7 +2,7 @@
 fortune_rank: 28
 name: Comcast
 tags: ["fortune500", "tech"]
-image: comcast.jpeg
+blm_image: comcast.jpeg
 blm_statements:
   - url: https://corporate.comcast.com/commitment
     date_posted: 2020-06-08

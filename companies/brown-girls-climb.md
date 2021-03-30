@@ -1,7 +1,7 @@
 ---
 name: Brown Girls Climb
 tags: ["sports"]
-image: brown-girls-climb.png
+blm_image: brown-girls-climb.png
 blm_statements:
   - url: https://www.instagram.com/p/CBCRKHbjplK/
     date_posted: 2020-06-04
