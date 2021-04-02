@@ -27,7 +27,6 @@ stop_asian_hate_statements:
     type: Tweet
     raw_text: >
       REI has zero tolerance for racism. We stand with the AAPI community and denounce the ongoing racism and violence against them. #StopAsianHate
-      
       Read the full statement in our newsroom.
 
       https://www.rei.com/newsroom/article/rei-co-op-statement-on-violence-against-the-asian-american-pacific-islander-community?cm_mmc=sm_tw_76514-_-brand-_-org-_-journal-_-wc-_-traffic
