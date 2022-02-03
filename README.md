@@ -1,5 +1,11 @@
 <img src="images/favicon.png" />
 
+# This project is now closed
+
+We started this project in 2020 as a practice in Open Source programming and promoted it during Hacktoberfest.  We are so thankful for everyone who contributed and we all learned a lot about how to organize and run an open source project.  Our efforts are now better spent on different projects and we will no longer be making changes to this repository.
+
+We would like to point you toward [What's missing from corporate statements on racial injustice? The real cause of racism](https://www.technologyreview.com/2020/09/05/1008187/racial-injustice-statements-tech-companies-racism-racecraft-opinion/) by Amber M. Hamilton for analysis and commentary on corporate statements from 2020.
+
 # Why are we here?
 
 We are focused on holding corporations accountable.
