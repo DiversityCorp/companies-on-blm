@@ -2,7 +2,7 @@ aiofiles==0.6.0
 apsw==3.9.2.post1
 asgi-csrf==0.7.1
 asgiref==3.3.1
-certifi==2020.12.5
+certifi==2022.12.7
 click==7.1.2
 click-default-group==1.2.2
 cycler==0.10.0
